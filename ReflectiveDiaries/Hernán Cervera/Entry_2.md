@@ -1,0 +1,8 @@
+## 26.01.20. Takeaways from the two prefaces and couple of pages of the first chapter of The Design of Everyday Things
+
+> Referenced book: Norman, D. A. (1988). The psychology of everyday things. Basic books.
+
+* Why manuals, why *power users*, why instructions? The excess of these might partially arise from poor design.
+* One of the most important principles of design is ***visibility***, and that which is visible must convey the correct message to the users. Visibility of cues and key components can single-handedly greatly enhance a system's understandability, discoverability and thus, its usability.
+* **Natural design** is composed of cues and structures that can be interpreted *naturally*, without the need to be conscious of them. For instance, take a door that is intended to be pushed on the right side in order to be opened. To convey how to open the door a sign reading "Push" could be placed at the right side of the door, but a better design would simply be to swap the sign with a vertical metal plate, leave out any handle and make visible the door hinge, a key component that indicates how the door moves. By removing text-based instructions in favor of intuitive cues and a visible mechanism, opening the door becomes a seamless and natural interaction.
+* **Bad design can disregard much effort put into product features**, issue which stems from obscure, unpleasant or cryptic human-computer interfaces. Faced against this situation people might as well settle for using one predefined setting as opposed to playing a puzzler in the hopes of understanding what the machine is cable of.
