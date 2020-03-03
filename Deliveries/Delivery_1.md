@@ -2,14 +2,6 @@
 
 ## Identifying target users
 
-### Initial findings
-
-The first approach we had in the field was through a semi-structured interview with Víctor, an occupational therapist who has ample experience working with children diagnosed with Autistic Spectrum Disorder (ASD). Here we understood that language, focus and socializing are common challenges for children with ASD. These findings aligned with our reading of Diagnostic and Statistical Manual of Mental Disorders, DSM-5.
-
-To further understand children with ASD and their challenges associated with language, we conducted an interview with Ashanty, a language therapist who has 20 years of experience working with children with ASD and specializes on developing theory of mind with patients over 6 years old. She also works with AAC low and high-technology devices, and informed us that children have much higher adoption of high-technology mediums. We also learned that language development is key to children's wellbeing, as it allows  him or her to effectively communicate desires and needs. AAC devices are widely used for this purpose, and they don't only improve the life-quality of these children, but also of their relatives.
-
-A next-step challenge, related with language, for children who have become comfortable with expressing basic needs and desires through AAC tools, is developing social cognition: understanding social situations, which includes comprehending other people's feelings, thoughts, beliefs and how they differ from the own.
-
 ### Research techniques
 
 #### Interview
@@ -37,3 +29,13 @@ This tool helps **focus user gathered information** into a concise representatio
 | Affinity to technology | This provides an baseline indicator for how likely the product is to be adopted by our target users. |
 | Familiar/Anxious about | To increase ease of adoption and satisfaction of use, it is important to understand what the users are comfortable and familiar with. On the other hand, we should strive to avoid including in the design any element which is anxious-provoking. |
 | Context of use | How, when and with whom is the product used. |
+
+### Exploratory interviews
+
+The purpose of the exploratory interviews was two-fold: (1) gather initial and general information about children with ASD in Mérida, Yucatán and (2) explore any problems they have related with language.
+
+The first approach we had in the field was through a semi-structured interview with Víctor Prudencio, an occupational therapist who has ample experience working with children diagnosed with Autistic Spectrum Disorder (ASD). Here we understood that language, focus and socializing are common challenges for children with ASD. These findings aligned with our reading of Diagnostic and Statistical Manual of Mental Disorders, DSM-5.
+
+To further understand children with ASD and their challenges associated with language, we conducted an interview with Ashanty Pérez, a language therapist who has 20 years of experience working with children with ASD and specializes on developing theory of mind with patients over 6 years old. She also works with AAC low and high-technology devices, and informed us that children have much higher adoption of high-technology mediums. We also learned that language development is key to children's wellbeing, as it allows  him or her to effectively communicate desires and needs. AAC devices are widely used for this purpose, and they don't only improve the life-quality of these children, but also of their relatives.
+
+A next-step challenge, related with language, for children who have become comfortable with expressing basic needs and desires through AAC tools, is developing social cognition: understanding social situations, which includes comprehending other people's feelings, thoughts, beliefs and how they differ from the own.
