@@ -85,6 +85,7 @@ With the editor's application you can create communication boards with contain v
 With the interpreter's application, the boards previously created with the editor's application can be visualized to develop communicative limitations and to help specialists in their therapies.
 
 ##### Screenshots
+
 !["ProjectTICO1.png"][pt1]  
 
 [pt1]: images/tico1.png
