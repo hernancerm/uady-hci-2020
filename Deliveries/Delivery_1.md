@@ -87,10 +87,10 @@ With the interpreter's application, the boards previously created with the edito
 ##### Screenshots
 !["ProjectTICO1.png"][pt1]  
 
-[pt1]: images/TICO1.png
+[pt1]: images/tico1.png
 
 !["ProjectTICO2.png"][pt2]  
 
-[pt2]: images/TICO2.png
+[pt2]: images/tico2.png
 
 [More about project TICO](http://www.arasaac.org/software.php)
