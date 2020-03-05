@@ -39,3 +39,58 @@ The first approach we had in the field was through a semi-structured interview w
 To further understand children with ASD and their challenges associated with language, we conducted an semi-structured interview with Ashanty Pérez, a language therapist who has 20 years of experience working with children with ASD and specializes on developing theory of mind with patients over 3 years old. She also works with low and high-technology Augmentative and Alternative Communication (AAC) devices, and informed us that children have much higher adoption of high-technology mediums (i.e. mobile apps). We also learned that language development is key to children's wellbeing, as it allows  him or her to effectively communicate desires and needs. AAC devices are widely used for this purpose, and they don't only improve life-quality of these children, but also of their relatives.
 
 A next-step challenge, related with language, for children who have become comfortable with expressing basic needs and desires through AAC tools, is developing social cognition: understanding social situations, which includes comprehending other people's feelings, thoughts, beliefs and how they differ from the own.
+
+
+### Market Analysis
+
+#### AutisMIND
+
+AutisMIND is an app to stimulate the development of Mind Theory and social thinking in children with Autism Spectrum Disorders.
+
+AutisMIND contains 10 different themes related to aspects of the Theory of Mind, with 6 levels of increasing difficulty and more than 1,000 recreational and interactive exercises.
+
+In this application, the themes chosen focus on precursor skills to social thinking, such as joint attention or the ability to symbolize, without these it is very difficult to develop the Theory of Mind, which allows the child to infer mental states in the other and adjust their own behavior to adapt to a given situation.
+
+##### Topics addressed:
+* Joint attention 
+* Secondary emotions
+* Interpretation of 
+* emotions by context
+* Physical sensations
+* Organs of the senses
+* Basic emotions
+* Global perception
+* Anticipation of actions
+* Symbolization
+* Visual perspectives
+
+##### Screenshots
+!["AutismMind1.png"][am1]  
+
+[am1]: images/autismind1.png
+
+!["AutismMind2.png"][am2]  
+
+[am2]: images/autismind2.png
+
+[More about autisMIND](https://autismind.com/)
+
+#### TICO Project
+
+TICO Project  (Tableros Interactivos de COmunicación) is a computer application to generate and use communication boards interactively.
+The program consists of two independent and differentiated but complementary applications: Editor and Interpreter.
+
+With the editor's application you can create communication boards with contain visual, auditory or environment control elements.
+
+With the interpreter's application, the boards previously created with the editor's application can be visualized to develop communicative limitations and to help specialists in their therapies.
+
+##### Screenshots
+!["ProjectTICO1.png"][pt1]  
+
+[pt1]: images/TICO1.png
+
+!["ProjectTICO2.png"][pt2]  
+
+[pt2]: images/TICO2.png
+
+[More about project TICO](http://www.arasaac.org/software.php)
