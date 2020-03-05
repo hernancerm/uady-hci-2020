@@ -95,3 +95,13 @@ With the interpreter's application, the boards previously created with the edito
 [pt2]: images/tico2.png
 
 [More about project TICO](http://www.arasaac.org/software.php)
+
+#### ¿Qué tal estás? App
+
+¿Qué tal estás? App is an application created to work and develop the identification and expression of children's emotions.
+
+The app is available in 6 languages and consists of a very simple drawing environment with 12 emotions (happiness, enthusiasm, crush, surprise, well-being, boredom, shyness, shame, fear, worry, sadness and anger), the child will have to compose with drawings that represent the eyes and mouth. The child has a small help that he can use up to 3 times and once the emotion is resolved he will be photographed himself imitating it.
+
+In addition, the game allows us to use it backwards, guess the emotion according to the picture we take.
+
+The application is created for children between 3 and 6 years and also designed for people with Autism Spectrum Disorder (ASD) who will find it very useful both therapeutic and school or family level empathizing with the people around them.
