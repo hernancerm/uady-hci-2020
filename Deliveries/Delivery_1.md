@@ -6,15 +6,15 @@
 
 #### Interview
 
-Get to know the users through the lens of an expert in the field. **(Expert opinion)**. This **accelerates and deepens understanding** of users. Regarding structure, semi-structured interview were chosen to provide a balance between quantitative and focused discussion and qualitative findings.
+Get to know the users through the lens of an expert in the field. (Expert opinion). This accelerates and deepens understanding of users. Regarding structure, semi-structured interviews were chosen to provide a balance between quantitative data collection and qualitative discussions. Audio of each interview is recorded when interviewee provides consent and when the context allows it.
 
 #### Observation
 
-In addition to the expert opinion gathered during interviews, observation of the users provides a better **understanding of their context of use, challenges and needs**.
+In addition to the expert opinion gathered during interviews, observation of the users provides a better understanding of their context of use, challenges and needs. The observation is performed directly when children are in a session of social cognition therapy.
 
 #### Persona
 
-This tool helps **focus user gathered information** into a concise representation. Personas can be used to **prioritize requirements** according to user's needs and goals as well as to **avoid unnecessary features**. Additionally, **non-funcional requirements** may be present in instances of this tool. Regarding structure, the following characteristics are considered for a persona.
+This tool helps focus user gathered information into a concise representation. Personas can be used to prioritize requirements according to user's needs and goals as well as to avoid discussion and implementation of unnecessary features. Additionally, key non-funcional requirements may be present in instances of this tool. Regarding structure, the following characteristics are considered for a persona:
 
 | Characteristic | Description and provided value |
 |---|---|
@@ -36,6 +36,6 @@ The purpose of the exploratory interviews was two-fold: (1) gather initial and g
 
 The first approach we had in the field was through a semi-structured interview with Víctor Prudencio, an occupational therapist who has ample experience working with children diagnosed with Autistic Spectrum Disorder (ASD). Here we understood that language, focus and socializing are common challenges for children with ASD. These findings aligned with our reading of Diagnostic and Statistical Manual of Mental Disorders, DSM-5.
 
-To further understand children with ASD and their challenges associated with language, we conducted an interview with Ashanty Pérez, a language therapist who has 20 years of experience working with children with ASD and specializes on developing theory of mind with patients over 6 years old. She also works with AAC low and high-technology devices, and informed us that children have much higher adoption of high-technology mediums. We also learned that language development is key to children's wellbeing, as it allows  him or her to effectively communicate desires and needs. AAC devices are widely used for this purpose, and they don't only improve the life-quality of these children, but also of their relatives.
+To further understand children with ASD and their challenges associated with language, we conducted an semi-structured interview with Ashanty Pérez, a language therapist who has 20 years of experience working with children with ASD and specializes on developing theory of mind with patients over 3 years old. She also works with low and high-technology Augmentative and Alternative Communication (AAC) devices, and informed us that children have much higher adoption of high-technology mediums (i.e. mobile apps). We also learned that language development is key to children's wellbeing, as it allows  him or her to effectively communicate desires and needs. AAC devices are widely used for this purpose, and they don't only improve life-quality of these children, but also of their relatives.
 
 A next-step challenge, related with language, for children who have become comfortable with expressing basic needs and desires through AAC tools, is developing social cognition: understanding social situations, which includes comprehending other people's feelings, thoughts, beliefs and how they differ from the own.
