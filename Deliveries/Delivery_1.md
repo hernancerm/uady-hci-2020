@@ -40,7 +40,6 @@ To further understand children with ASD and their challenges associated with lan
 
 A next-step challenge, related with language, for children who have become comfortable with expressing basic needs and desires through AAC tools, is developing social cognition: understanding social situations, which includes comprehending other people's feelings, thoughts, beliefs and how they differ from the own.
 
-
 ### Market Analysis
 
 #### AutisMIND
@@ -52,9 +51,10 @@ AutisMIND contains 10 different themes related to aspects of the Theory of Mind,
 In this application, the themes chosen focus on precursor skills to social thinking, such as joint attention or the ability to symbolize, without these it is very difficult to develop the Theory of Mind, which allows the child to infer mental states in the other and adjust their own behavior to adapt to a given situation.
 
 ##### Topics addressed:
-* Joint attention 
+
+* Joint attention
 * Secondary emotions
-* Interpretation of 
+* Interpretation of
 * emotions by context
 * Physical sensations
 * Organs of the senses
@@ -64,14 +64,15 @@ In this application, the themes chosen focus on precursor skills to social think
 * Symbolization
 * Visual perspectives
 
-##### Screenshots
-!["AutismMind1.png"][am1]  
+##### AutisMIND screenshots
 
-[am1]: images/autismind1.png
+<p align="center">
+    <img width="600px" src="images/autismind1.png">
+</p>
 
-!["AutismMind2.png"][am2]  
-
-[am2]: images/autismind2.png
+<p align="center">
+    <img width="600px" src="images/autismind2.png">
+</p>
 
 [More about autisMIND](https://autismind.com/)
 
@@ -84,14 +85,14 @@ With the editor's application you can create communication boards with contain v
 
 With the interpreter's application, the boards previously created with the editor's application can be visualized to develop communicative limitations and to help specialists in their therapies.
 
-##### Screenshots
+##### TICO Project screenshots
 
-!["ProjectTICO1.png"][pt1]  
+<p align="center">
+    <img width="300px" src="images/tico1.png">
+</p>
 
-[pt1]: images/tico1.png
-
-!["ProjectTICO2.png"][pt2]  
-
-[pt2]: images/tico2.png
+<p align="center">
+    <img width="550px" src="images/tico2.png">
+</p>
 
 [More about project TICO](http://www.arasaac.org/software.php)
