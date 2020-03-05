@@ -106,3 +106,18 @@ The app is available in 6 languages and consists of a very simple drawing enviro
 In addition, the game allows us to use it backwards, guess the emotion according to the picture we take.
 
 The application is created for children between 3 and 6 years and also designed for people with Autism Spectrum Disorder (ASD) who will find it very useful both therapeutic and school or family level empathizing with the people around them.
+
+##### T¿Qué tal estás? App screenshots
+
+
+<p align="center">
+    <img width="550px" src="images/que2.png">
+</p>
+
+<p align="center">
+    <img width="300px" src="images/que1.jpg">
+</p>
+
+
+
+[More about ¿Qué tal estás? App](https://aulautista.wixsite.com/teapps/qu-tal-ests)
