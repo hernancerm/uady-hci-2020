@@ -121,3 +121,25 @@ The application is created for children between 3 and 6 years and also designed 
 
 
 [More about ¿Qué tal estás? App](https://aulautista.wixsite.com/teapps/qu-tal-ests)
+
+### Metric
+
+The metric we define, allows us to measure the indivdual contribution and the deliveries progress.
+
+#### How does it work
+
+The project is divided in deliveries defined by the teacher. Every delivery has activities and every activity has the following attributes:
+
+* **Complexity:** Measured by Complexity Points (CP). The scale is based on Fibonacci series (3, 5, 8 & 13). The number of CP for every activity is assigned based on a consensus with the team.
+* **Delivery Percentage of Completion:** It is the percentage assigned to the activity, which refers to the progress made in the whole delivery. Is defined by a hundred divided between the total number of activities in a delivery by the CP of the activity.
+* **Criteria:** Define the process that will be followed in order to successfully do the activity. The criteria will help us to define the number of CPs that we are going to asign to each activity and how many points each member can earn.
+* **Number of points asigned to each member:**  The number of points assigned to each member is defined by the whole team and is based primarily on the criteria of the activity.
+
+After define every of this attributes for all the activities from each delivery, is time to measure.
+
+The **individual contribution** is calculated for each delivery. The calculation is done by dividing one hundred by the total CP number of the delivery. The result is multiplied by the total number of CPs of each team member. The result is expressed in a percentage.
+
+The sum of the individual contribution percentage of each team member in a delivery, is the current **progress of that delivery.**
+
+Here is the link to the [Google Sheets Document](https://docs.google.com/spreadsheets/d/1PG3QAMMSaIHhpFBE-icTz4Kvc2XZR41v1gc5CbGukCs/edit?usp=sharing) with the metric application.
+
