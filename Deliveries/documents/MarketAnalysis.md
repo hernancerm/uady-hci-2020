@@ -22,6 +22,29 @@ In this application, the themes chosen focus on precursor skills to social think
 * Symbolization
 * Visual perspectives
 
+
+Some of the most important features of the app include:
+
+* **Simple and intuitive use:** designed for accessible navigation for people with ASD.
+
+* **Immediate feedback and positive reinforcement:** motivate the child and let him know instantly if he has done well or what would be the correct answer if that is the case.
+
+* **Learning without error:** the app offers aids, tutorials and visual aids to avoid frustration and ensure a successful learning without error.
+
+* **Detailed follow-up of the evolution:** it records the response time, the successes and errors of the child and allows you to consult the evolution at any time, also allows you to export the charts in pdf to evaluate the effectiveness and performance.
+
+* **Multi-user:** the app allows the creation of different users for professional use, being able to create different profiles and use it with different children.
+
+* **Customizable configuration:** allows you to adapt the application to suit each child, allowing you to program some features and choose reinforcement, support, etc.
+
+In clinical practice with children with ASD, specific intervention is essential to stimulate ToM and facilitate social thinking. A deficit in this ability inevitably affects the development of social skills and the establishment of positive social interactions, making adaptation and subsequent integration in the context difficult.
+
+Through AutisMIND, the development of ToM can be stimulated in different ways, (individually or in groups) and in different contexts (in the classroom, at home, in a treatment session ...) although it is recommended that it be used guided by a facilitator who act as an aid to learn, think, debate and reflect on the different situations and exercises presented. This allows children to comment and explain their different points of view, listen to others, provide examples of situations experienced and cooperatively, find a solution to the problems raised.
+
+When implementing any technological resource with people with special educational needs (SEN), some aspects must be taken into account, always promoting good use and avoiding abuse. The misuse of some applications or devices can have iatrogenic consequences and generate habits that, once established, can be very difficult to change.
+
+Another important aspect is portability; due to batteries, internet and the cloud, the information can be available anywhere, greatly facilitating the generalization of learning to all user contexts, as well as enabling the joint participation of the network of professionals and families that accompany the people with ASD.
+
 ### AutisMIND screenshots
 
 <p align="center">
