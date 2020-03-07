@@ -1,6 +1,4 @@
-# Learning about our users
-
-> The information in this document is synthesized in a [GoogleSlides presentation](https://docs.google.com/presentation/d/1aUbKOclu5MvQBYeWlLE0W4tgN_4UJX_7so7zeKGZl2s/edit?usp=sharing).
+# Learning the context of use
 
 ## Definition and justification of the problem
 
@@ -78,7 +76,87 @@ A next-step challenge, related with language, for children who have become comfo
 
 ## Market analysis
 
-The preliminary market analysis done for this delivery can be found in a [separate document](documents/MarketAnalysis.md). The purpose of this research and analysis is to understand what has been developed and what features or areas are still unexplored by the market.
+### AutisMIND
+
+AutisMIND is an app to stimulate the development of Mind Theory and social thinking in children with Autism Spectrum Disorders.
+
+AutisMIND contains 10 different themes related to aspects of the Theory of Mind, with 6 levels of increasing difficulty and more than 1,000 recreational and interactive exercises.
+
+In this application, the themes chosen focus on precursor skills to social thinking, such as joint attention or the ability to symbolize, without these it is very difficult to develop the Theory of Mind, which allows the child to infer mental states in the other and adjust their own behavior to adapt to a given situation.
+
+#### Topics addressed:
+
+* Joint attention
+* Secondary emotions
+* Interpretation of
+* emotions by context
+* Physical sensations
+* Organs of the senses
+* Basic emotions
+* Global perception
+* Anticipation of actions
+* Symbolization
+* Visual perspectives
+
+#### AutisMIND screenshots
+
+<p align="center">
+    <img width="600px" src="images/autismind1.png">
+</p>
+
+<p align="center">
+    <img width="600px" src="images/autismind2.png">
+</p>
+
+[More about autisMIND](https://autismind.com/)
+
+### TICO Project
+
+TICO Project (Tableros Interactivos de COmunicación) is a computer application to generate and use communication boards interactively. The program consists of two independent and differentiated but complementary applications: Editor and Interpreter.
+
+With the editor's application you can create communication boards with contain visual, auditory or environment control elements.
+
+With the interpreter's application, the boards previously created with the editor's application can be visualized to develop communicative limitations and to help specialists in their therapies.
+
+Although, the problems of social cognition arise when trying to externalize the thoughts as well as when internalizing them, this type of activities, such as following a communication process through cards that help you to externalize the thoughts through mechanics such as performing consecutive actions Well, regularly children with these types of problems believe that we all know what goes through their mind.
+ 
+Having several boards to structure and outsource your thoughts becomes a great help, because the child can add structures to order an object or express what he feels, for example: "I" + " feel" + " happy". The child, being able to outsource structures of that style, exercises his communication and adds central and global coherence to his language.
+
+#### TICO Project screenshots
+
+<p align="center">
+    <img width="300px" src="images/tico1.png">
+</p>
+
+<p align="center">
+    <img width="550px" src="images/tico2.png">
+</p>
+
+[More about project TICO](http://www.arasaac.org/software.php)
+
+### ¿Qué tal estás? App
+
+¿Qué tal estás? App is an application created to work and develop the identification and expression of children's emotions with ASD.
+
+The application is available in 6 languages ​​and consists of a very simple drawing environment with 12 emotions (happiness, enthusiasm, crush, surprise, well-being, boredom, shyness, shame, fear, worry, sadness and anger), the child will have to compose with drawings that represent the eyes and mouth.
+
+ The child has a little help that he can use up to 3 times and once the emotion is resolved, he will photograph himself imitating it, so that he can generate empathy for people's feelings and be able to better understand the "how I feel "and the" how it feels "because with the problems of social congestion there is usually no such perception.
+
+In addition, the game allows us to use it the other way around, guess the emotion according to the image we take, with this, we can develop in them recognizing emotions and feelings of other people in their eyes, tuning in with the eyes of another, trying to understand mental states and try to understand people's behavior through their emotions.
+
+These types of activities are usually additional learning methods and for therapeutic purposes, with the purpose of developing social cognition skills in children with ASD and exercising with this type of activities.
+
+#### ¿Qué tal estás? App screenshots
+
+<p align="center">
+    <img width="550px" src="images/que2.png">
+</p>
+
+<p align="center">
+    <img width="300px" src="images/que1.jpg">
+</p>
+
+[More about ¿Qué tal estás? App](https://aulautista.wixsite.com/teapps/qu-tal-ests)
 
 ## Metrics
 
@@ -86,15 +164,15 @@ The preliminary market analysis done for this delivery can be found in a [separa
 
 The project is divided in deliveries defined by the teacher. Every delivery has activities and every activity has the following attributes:
 
-* **Complexity:** Measured by Complexity Points (CP). The scale is based on Fibonacci series (3, 5, 8 & 13). The reason for using the Fibonacci sequence instead of simply doubling each subsequent value is because estimating a task as exactly double the effort as another task is misleadingly precise. A task which is about twice as much effort as a 5, has to be evaluated as either a bit less than double (8) or a bit more than double (13). The number of CP for every activity is assigned based on a consensus with the team.
-* **Delivery Percentage of Completion:** It is the percentage assigned to the activity, which refers to the progress made in the whole delivery. Is defined by a hundred divided between the total number of activities in a delivery by the CP of the activity.
-* **Criteria:** Define the sub-activities that were done in each activity and depending on those sub-activities, the team can have a better idea of ​​how many CP each member deserves.
+* **Complexity:** Measured by Complexity Points (CP). The scale is based on Fibonacci sequence (3, 5, 8 & 13) instead of simply doubling each subsequent value because estimating a task as exactly double the effort as another task is misleadingly precise. A task which is about twice as much effort as a 5, has to be evaluated as either a bit less than double (8) or a bit more than double (13). The number of CP for every activity is assigned based on a consensus with the team.
+* **Delivery Percentage of Completion:** Percentage assigned to each activity based on the total percentage delivery activities. It is defined as the product of the activity CP by the ratio of one hundred among the total number of delivery activities. (100 / total number of activities) * Activity CP.
+* **Criteria:** Define the sub-activities done in each activity and depending on those sub-activities, the team can have a better idea of ​​how many CP each member deserves.
 * **Number of points asigned to each member:** Every activity has a specific CP number and those points are divided between team members that worked on the activity. The whole team decides how many CP of the activity will be asigned to each member(division doesn't have to be equitable. At the end, CP sum of all members who worked on the activity has to be the same as the total CP of the activity.
 
 After define every of this attributes for all the activities from each delivery, is time to measure.
 
 The **individual contribution** is calculated for each delivery. The calculation is done by dividing one hundred by the total CP number of the delivery. The result is multiplied by the total number of CPs of each team member. The result is expressed in a percentage.
 
-The sum of the individual contribution percentage of each team member in a delivery, is the current **progress of that delivery.**
+The sum of the individual contribution percentage of each team member in a delivery, is the current **delivery progress.**
 
 Here is the link to the [Google Sheets Document](https://docs.google.com/spreadsheets/d/1PG3QAMMSaIHhpFBE-icTz4Kvc2XZR41v1gc5CbGukCs/edit?usp=sharing) with the metric application.
