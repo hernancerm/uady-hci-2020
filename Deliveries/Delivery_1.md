@@ -1,5 +1,7 @@
 # Learning the context of use
 
+> The information in this document is synthesized in a [GoogleSlides presentation](https://docs.google.com/presentation/d/1aUbKOclu5MvQBYeWlLE0W4tgN_4UJX_7so7zeKGZl2s/edit?usp=sharing).
+
 ## Definition and justification of the problem
 
 The problem that will be the focus of our project can be concisely summarized in the following sentence:
