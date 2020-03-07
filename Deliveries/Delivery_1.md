@@ -1,22 +1,26 @@
 # Learning the context of use
 
-## Problem definition
+## Definition and justification of the problem
 
-### Problematic
+The problem that will be the focus of our project can be concisely summarized in the following sentence:
 
-Low development of social cognition in children with Autism Spectrum Disorder.
+<p align="center">
+    <b>Low development of social cognition in children with Autism Spectrum Disorder (ASD).</b>
+</p>
 
-### What is Social Cognition?
+According to the [APA Dictionary of Psychology](https://dictionary.apa.org/social-cognition), social cognition is defined as follows:
 
-According to the **American Psychological Association Dictionary of Psychology**, Social Cognition is: cognition in which people perceive, think about, interpret, categorize, and judge their own social behaviors and those of others. The study of social cognition involves aspects of both cognitive psychology and social psychology. Major areas of interest include attribution theory, person perception, social influence, and the cognitive processes involved in moral judgments.
+> Cognition in which people perceive, think about, interpret, categorize, and judge their own social behaviors and those of others. The study of social cognition involves aspects of both cognitive psychology and social psychology. Major areas of interest include attribution theory, person perception, social influence, and the cognitive processes involved in moral judgments.
 
-### Consequences
+In simpler terms, social cognition is a topic covered by various branches of psychology and it refers to the cognitive processes related with perceiving, understanding and applying information about the own and other people's feelings, desires and thoughts.
 
-People with a low development of social cognition have difficulty in communication, therefore, it is difficult to interact with others, achieve goals or initiate social relationships, therefore, the child is usually isolated.
+Social cognition is known to be particularly underdeveloped in people diagnosed with ASD. Symptomatic evidence of this can be confirmed by the [Diagnostic and Statistical Manual of Mental Disorders (DSM–5)](https://www.psychiatry.org/psychiatrists/practice/dsm) on the diagnosis criteria of Autism Spectrum Disorder. Several deficits related with social cognition are mentioned in criterion *A* and its sub-items, among which some points are:
 
-### Why do we choose this path?
+* "Persistent deficits in social communication and social interaction [...]".
+* "Deficits in social-emotional reciprocity, ranging, for example, from abnormal social approach and failure of normal back-and-forth conversation; to reduced sharing of interests, emotions, or affect; to failure to initiate or respond to social interactions."
+* "Deficits in developing, maintaining, and understanding relationships".
 
-The initial problematic that we defined was **Language Disorders**, but it is a very broad area, so we decide to find help from profesionals. After an interview with Victor, an occupational therapist, we decide to delimit the problematic to **Language Disorders in Children with Autism Spectrun Disorder (ASD)**, that was because he told us that language disorders are very related with ASD and is are more common in children. Victor help us to better understand the basics of Language Disorders and ASD, but he is not an expert in language therapies, so he give us the number of a language therapist. We already had have two interviews with Ashanty, the language therapist. In the firt one we decide to explore the **Augmentative and Alternative Communication (AAC)**, but she told us that it is a highly explored area in terms of technological tools that help in therapies, so she recommend us to focus on a higher level and less exlored area of language disabilities, Theory of Mind (ToM) and Social Cognition. Also she told us that ASD is the condition in which the impact on social cognition is most seen. Derived from all this, we decided that the final problematic would be: **Low Development of Social Cognition in Children with Autism Spectrum Disorder.**
+Additionally, on an interview with Ashanty Pérez, a therapist with 20 years of experience working with _theory of mind_ (a super-set of social cognition) therapies for children with ASD, we understood that low development of social cognition is evidently observed in communication difficulties which hinder basic interaction with other people, accomplishment of simple goals and initiation of social interactions. This might lead to isolation and has a clear impact on wellbeing.
 
 ## Identifying target users
 
