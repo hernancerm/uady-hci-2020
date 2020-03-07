@@ -112,12 +112,15 @@ In this application, the themes chosen focus on precursor skills to social think
 
 ### TICO Project
 
-TICO Project  (Tableros Interactivos de COmunicación) is a computer application to generate and use communication boards interactively.
-The program consists of two independent and differentiated but complementary applications: Editor and Interpreter.
+TICO Project (Tableros Interactivos de COmunicación) is a computer application to generate and use communication boards interactively. The program consists of two independent and differentiated but complementary applications: Editor and Interpreter.
 
 With the editor's application you can create communication boards with contain visual, auditory or environment control elements.
 
 With the interpreter's application, the boards previously created with the editor's application can be visualized to develop communicative limitations and to help specialists in their therapies.
+
+Although, the problems of social cognition arise when trying to externalize the thoughts as well as when internalizing them, this type of activities, such as following a communication process through cards that help you to externalize the thoughts through mechanics such as performing consecutive actions Well, regularly children with these types of problems believe that we all know what goes through their mind.
+ 
+Having several boards to structure and outsource your thoughts becomes a great help, because the child can add structures to order an object or express what he feels, for example: "I" + " feel" + " happy". The child, being able to outsource structures of that style, exercises his communication and adds central and global coherence to his language.
 
 #### TICO Project screenshots
 
@@ -133,13 +136,15 @@ With the interpreter's application, the boards previously created with the edito
 
 ### ¿Qué tal estás? App
 
-¿Qué tal estás? App is an application created to work and develop the identification and expression of children's emotions.
+¿Qué tal estás? App is an application created to work and develop the identification and expression of children's emotions with ASD.
 
-The app is available in 6 languages and consists of a very simple drawing environment with 12 emotions (happiness, enthusiasm, crush, surprise, well-being, boredom, shyness, shame, fear, worry, sadness and anger), the child will have to compose with drawings that represent the eyes and mouth. The child has a small help that he can use up to 3 times and once the emotion is resolved he will be photographed himself imitating it.
+The application is available in 6 languages ​​and consists of a very simple drawing environment with 12 emotions (happiness, enthusiasm, crush, surprise, well-being, boredom, shyness, shame, fear, worry, sadness and anger), the child will have to compose with drawings that represent the eyes and mouth.
 
-In addition, the game allows us to use it backwards, guess the emotion according to the picture we take.
+ The child has a little help that he can use up to 3 times and once the emotion is resolved, he will photograph himself imitating it, so that he can generate empathy for people's feelings and be able to better understand the "how I feel "and the" how it feels "because with the problems of social congestion there is usually no such perception.
 
-The application is created for children between 3 and 6 years and also designed for people with Autism Spectrum Disorder (ASD) who will find it very useful both therapeutic and school or family level empathizing with the people around them.
+In addition, the game allows us to use it the other way around, guess the emotion according to the image we take, with this, we can develop in them recognizing emotions and feelings of other people in their eyes, tuning in with the eyes of another, trying to understand mental states and try to understand people's behavior through their emotions.
+
+These types of activities are usually additional learning methods and for therapeutic purposes, with the purpose of developing social cognition skills in children with ASD and exercising with this type of activities.
 
 #### ¿Qué tal estás? App screenshots
 
