@@ -149,10 +149,10 @@ The application is created for children between 3 and 6 years and also designed 
 
 The project is divided in deliveries defined by the teacher. Every delivery has activities and every activity has the following attributes:
 
-* **Complexity:** Measured by Complexity Points (CP). The scale is based on Fibonacci series (3, 5, 8 & 13). The number of CP for every activity is assigned based on a consensus with the team.
+* **Complexity:** Measured by Complexity Points (CP). The scale is based on Fibonacci series (3, 5, 8 & 13). The reason for using the Fibonacci sequence instead of simply doubling each subsequent value is because estimating a task as exactly double the effort as another task is misleadingly precise. A task which is about twice as much effort as a 5, has to be evaluated as either a bit less than double (8) or a bit more than double (13). The number of CP for every activity is assigned based on a consensus with the team.
 * **Delivery Percentage of Completion:** It is the percentage assigned to the activity, which refers to the progress made in the whole delivery. Is defined by a hundred divided between the total number of activities in a delivery by the CP of the activity.
-* **Criteria:** Define the process that will be followed in order to successfully do the activity. The criteria will help us to define the number of CPs that we are going to asign to each activity and how many points each member can earn.
-* **Number of points asigned to each member:**  The number of points assigned to each member is defined by the whole team and is based primarily on the criteria of the activity.
+* **Criteria:** Define the sub-activities that were done in each activity and depending on those sub-activities, the team can have a better idea of ​​how many CP each member deserves.
+* **Number of points asigned to each member:** Every activity has a specific CP number and those points are divided between team members that worked on the activity. The whole team decides how many CP of the activity will be asigned to each member(division doesn't have to be equitable. At the end, CP sum of all members who worked on the activity has to be the same as the total CP of the activity.
 
 After define every of this attributes for all the activities from each delivery, is time to measure.
 
