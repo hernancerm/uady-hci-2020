@@ -84,17 +84,13 @@ The preliminary market analysis done for this delivery can be found in a [separa
 
 ### Individual contribution and project progress
 
-The project is divided in deliveries defined by the teacher. Every delivery has activities and every activity has the following attributes:
+> This metric has been applied to the first delivery of the project. The detailed application can be found in a [Google Sheets document](https://docs.google.com/spreadsheets/d/1PG3QAMMSaIHhpFBE-icTz4Kvc2XZR41v1gc5CbGukCs/edit?usp=sharing).
 
-* **Complexity:** Measured by Complexity Points (CP). The scale is based on Fibonacci series (3, 5, 8 & 13). The reason for using the Fibonacci sequence instead of simply doubling each subsequent value is because estimating a task as exactly double the effort as another task is misleadingly precise. A task which is about twice as much effort as a 5, has to be evaluated as either a bit less than double (8) or a bit more than double (13). The number of CP for every activity is assigned based on a consensus with the team.
-* **Delivery Percentage of Completion:** It is the percentage assigned to the activity, which refers to the progress made in the whole delivery. Is defined by a hundred divided between the total number of activities in a delivery by the CP of the activity.
-* **Criteria:** Define the sub-activities that were done in each activity and depending on those sub-activities, the team can have a better idea of ​​how many CP each member deserves.
-* **Number of points asigned to each member:** Every activity has a specific CP number and those points are divided between team members that worked on the activity. The whole team decides how many CP of the activity will be asigned to each member(division doesn't have to be equitable. At the end, CP sum of all members who worked on the activity has to be the same as the total CP of the activity.
+The project is divided in deliveries defined by the professor of the course, Edgar Cambranes. Each delivery has activities and each activity has the following attributes:
 
-After define every of this attributes for all the activities from each delivery, is time to measure.
+* **Complexity Points (CP):** The scale is based on Fibonacci sequence (3, 5, 8 and 13). Instead of using consecutive integers, the Fibonacci sequence was preferred because points scale better, highlighting those who contribute the most. The CP for each activity is assigned in a team meeting, guaranteeing consensus.
+* **Delivery Percentage of Completion:** Percentage assigned to each activity based on the total percentage delivery activities. It is defined as the product of the activity CP by the ratio of one hundred among the total number of delivery activities. `(100 / total number of activities) * Activity CP`.
+* **Criteria:** Define the sub-activities done in each activity and depending on those sub-activities, the team can have a better idea of ​​how many CP each member deserves.
+* **Number of points assigned to each member:** Every activity has a specific CP that is divided among team members that worked on the activity. The whole team decides how many CP of the activity will be assigned to each member (distribution doesn't have to be equal). CP sum of all members who worked on the activity has to be the same as the total CP of the activity.
 
-The **individual contribution** is calculated for each delivery. The calculation is done by dividing one hundred by the total CP number of the delivery. The result is multiplied by the total number of CPs of each team member. The result is expressed in a percentage.
-
-The sum of the individual contribution percentage of each team member in a delivery, is the current **progress of that delivery.**
-
-Here is the link to the [Google Sheets Document](https://docs.google.com/spreadsheets/d/1PG3QAMMSaIHhpFBE-icTz4Kvc2XZR41v1gc5CbGukCs/edit?usp=sharing) with the metric application.
+The individual contribution is calculated for each delivery. The calculation is done by dividing one hundred by the total CP of the delivery. The result is multiplied by the total CPs of each team member and the result is expressed in a percentage. The sum of the individual contribution percentage of each team member in a delivery is the current delivery progress.
