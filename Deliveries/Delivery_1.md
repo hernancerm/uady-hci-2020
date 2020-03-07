@@ -22,6 +22,16 @@ Social cognition is known to be particularly underdeveloped in people diagnosed 
 
 Additionally, on an interview with Ashanty Pérez, a therapist with 20 years of experience working with _theory of mind_ (a super-set of social cognition) therapies for children with ASD, we understood that low development of social cognition is evidently observed in communication difficulties which hinder basic interaction with other people, accomplishment of simple goals and initiation of social interactions. This might lead to isolation and has a clear impact on wellbeing.
 
+## Research planning
+
+Tasks are planned using a Gantt chart generated in [Wrike](https://www.wrike.com/), a work planning application. Since it is not possible to produce a view-only url to the chart, an image of the past activities is provided below.
+
+<p align="center">
+    <img width="750px" src="images/planning.png">
+</p>
+
+Tasks in blue are not completed, whilst tasks in green are done. For this delivery our debt comprises the definition of target users. Although we have defined the user [research techniques](#research-techniques), observations are yet to be made and more data needs to be collected to build correct and useful personas.
+
 ## Identifying target users
 
 ### Research techniques
