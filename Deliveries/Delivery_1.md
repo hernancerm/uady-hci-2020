@@ -26,6 +26,8 @@ Additionally, on an interview with Ashanty Pérez, a therapist with 20 years of 
 
 ### Research techniques
 
+Before investing time into defining a proposal to tackle the aforementioned problem, knowing our target users will definitely prove very valuable in the later ideation phase of the project. For the purpose of identifying target users several techniques are used.
+
 #### Interview
 
 Get to know the users through the lens of an expert in the field. (Expert opinion). This accelerates and deepens understanding of users. Regarding structure, semi-structured interviews were chosen to provide a balance between quantitative data collection and qualitative discussions. Audio of each interview is recorded when interviewee provides consent and when the context allows it.
