@@ -1,6 +1,6 @@
 # Learning about our users
 
-> The information in this document is synthesized in a [Google Slides presentation](https://docs.google.com/presentation/d/1aUbKOclu5MvQBYeWlLE0W4tgN_4UJX_7so7zeKGZl2s/edit?usp=sharing).
+> The information in this document is synthesized in a [Google Slides presentation](https://docs.google.com/presentation/d/1aUbKOclu5MvQBYeWlLE0W4tgN_4UJX_7so7zeKGZl2s/edit?usp=sharing). Furthermore, we have a [YouTube video](https://youtu.be/rqo8IsYnp-M) presenting the slides.
 
 ## Definition and justification of the problem
 
