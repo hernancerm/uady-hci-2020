@@ -20,7 +20,7 @@ The purpose of this assignamet is to analyze the characteristics of the persona 
 
 ### Artifacts
 
-The detailed analysis is presented in a [stormboard](hhttps://stormboard.com/storm/916504/Persona_characteristics_for_domotic_system).
+The detailed analysis is presented in a [stormboard](https://stormboard.com/storm/916504/Persona_characteristics_for_domotic_system).
 
 ## 19.03.20 Revision of a software project insofar UCD processes
 
