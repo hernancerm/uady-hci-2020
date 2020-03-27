@@ -1,0 +1,9 @@
+## 27.03.20: Reflection about the article "Heuristic Evaluation of a Gamified Application for Education in Patients with Diabetes".
+
+> Referenced article: Andrea S. Arce Jiménez, Norma A. Barón Ramírez, Pedro C. Santana-Mancilla, Juan Carlos Meza Romero, and Ricardo Acosta-Díaz. 2018. Heuristic Evaluation of a Gamified Application for Education in Patients with Diabetes. In Proceedings of the 7th Mexican Conference on Human-Computer Interaction (MexIHC ’18). Association for Computing Machinery, New York, NY, USA, Article 16, 1–4. DOI:https://doi.org/10.1145/3293578.3293593
+  
+In a few words, the article propose the design and development of an application to educate patients with diabetes, about their disease, using interactive gamified activities.
+
+What matters in this article is the usability test they used to identify usability issues early in the development process. The article describes very well all the process they did to measure the usability of their application. One aspect that seems very useful to me is that the usability test was carried out remotely. Why? well, rigth now the world is experiencing a pandemic situation thanks to COVID-19 and to prevent the spread of the virus we are quarantined, which means that work, school, and all activities related to human interaction must be remote.
+
+For our HCI course, we have to apply the human-centered design methodology and a very important part of the process is usability testing. Despite my team will not apply usability tests, because the main users are autistic children, I think it is very important to know about these alternatives, because we don't know when they might be necessary.
