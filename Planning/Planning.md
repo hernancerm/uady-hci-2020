@@ -21,4 +21,4 @@ For each activity a minimum contribution was defined for each deliverable, in th
 |Task|Responsible|Schedule|
 |---|---|---|
 |Research ToM therapies | Everyone | 1 Apr|
-|Justification attributes of Personas | Everyone | 4 Mar|
+|Justification attributes of Personas | Everyone | 4 Apr|
