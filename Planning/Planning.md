@@ -4,7 +4,7 @@ The tasks involved in completing the project are grouped into weekly efforts, wh
 
 ## 23.03.20 - 30.03.20
 
-|Task|Responsible|Schedule|
+|Task|Responsible|Due date|
 |---|---|---|
 |Definition of core concepts and planning | Everyone | 25 Mar|
 |User specification planning | Everyone | 28 Mar|
@@ -18,7 +18,7 @@ As part of this week's sprint planning, the following activities were defined wi
 For each activity a minimum contribution was defined for each deliverable, in this way the activity can be considered and in parallel the members of them were defined. As part of the feedback of each assignments, a call will be made on the day of delivery of the same.
 
 
-|Task|Responsible|Schedule|
+|Task|Responsible|Due date|
 |---|---|---|
 |Research ToM therapies | Everyone | 1 Apr|
 |Justification attributes of Personas | Everyone | 4 Apr|
@@ -26,7 +26,7 @@ For each activity a minimum contribution was defined for each deliverable, in th
 
 ## 06.04.20 - 13.04.20
 
-After considering the redefinition of our project, we decided to start again to research topics related to our new problem (FMAT dropout) to get information on aspects considered for the first delivery: problem definition and justification,  user research and initial requirements.
+After considering the redefinition of our project, we decided to start again to research topics related to our new problem (FMAT dropout) to get information on aspects considered for the first delivery: [problem definition and justification](https://docs.google.com/document/d/1OBkvmKDxjZDkw63ckhKiw20IP5leXPf7bkVDPCmbahc/edit),  user research and initial requirements.
 
 
 |Task|Responsible|Due date|
