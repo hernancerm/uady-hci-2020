@@ -29,7 +29,7 @@ For each activity a minimum contribution was defined for each deliverable, in th
 After considering the redefinition of our project, we decided to start again to research topics related to our new problem (FMAT dropout) to get information on aspects considered for the first delivery: problem definition and justification,  user research and initial requirements.
 
 
-|Task|Responsible|Schedule|
+|Task|Responsible|Due date|
 |---|---|---|
 |Select research methods| Elena Medina, Hernán Cervera | 7 Apr |
 |School delay and dropout research | Everyone | 8 Apr|
