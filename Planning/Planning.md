@@ -22,3 +22,18 @@ For each activity a minimum contribution was defined for each deliverable, in th
 |---|---|---|
 |Research ToM therapies | Everyone | 1 Apr|
 |Justification attributes of Personas | Everyone | 4 Apr|
+
+
+## 06.04.20 - 13.04.20
+
+After considering the redefinition of our project, we decided to start again to research topics related to our new problem (FMAT dropout) to get information on aspects considered for the first delivery: problem definition and justification,  user research and initial requirements.
+
+
+|Task|Responsible|Schedule|
+|---|---|---|
+|Select research methods| Elena Medina, Hernán Cervera | 7 Apr |
+|School delay and dropout research | Everyone | 8 Apr|
+|Market Analysis| Magdiel Pech |9 Apr|
+|Elaborate research instruments | Elena Medina |10 Apr |  
+|Preliminary definition of requirements |Alvar Peniche, Magdiel Pech | 13 Apr|
+|Document problem definition | Magdiel Pech | 13 Apr|
