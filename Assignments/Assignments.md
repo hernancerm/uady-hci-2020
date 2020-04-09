@@ -29,3 +29,11 @@ The purpose of this assignment is to analyze the realization of a software proje
 ### Deliverables
 
 The detailed analysis is presented in a [document](https://docs.google.com/document/d/1qyTdtCmzzQxgWpsi7pWOg9SV6yqUt7l290vpzUzH3bg/edit?usp=sharing), whilst a brief summary is provided in a [presentation](https://docs.google.com/presentation/d/1ZrZ_HOBCHZnIZTs-juoFiSv0Dgkl4OQeEkb8HBBp2Os/edit?usp=sharing).
+
+## 09.04.20 InVision heuristic evaluation
+
+The purpose of this assignment is to evaluate InVision against Jakob Nielsen's ten [usability heuristics for user interface design](https://www.nngroup.com/articles/ten-usability-heuristics/). Both positive and negative observations are made and not all heuristics are covered.
+
+### Deliverables
+
+The evaluation is presented in a [document](https://docs.google.com/document/d/1Y-AbZ1O5GXypq8SrIFk7ciILKkkiaiLO7URwozag1RA/edit?usp=sharing).
