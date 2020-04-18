@@ -84,7 +84,7 @@ The preliminary market analysis done for this delivery can be found in a [separa
 
 ### Individual contribution and project progress
 
-> This metric has been applied to the first delivery of the project. The detailed application can be found in a [Google Sheets document](https://docs.google.com/spreadsheets/d/1PG3QAMMSaIHhpFBE-icTz4Kvc2XZR41v1gc5CbGukCs/edit?usp=sharing).
+> This metric has been applied to the first delivery of the project. The detailed application can be found in a [Google Sheets document](https://docs.google.com/spreadsheets/d/1LhBCNRYAx3nGcG9hvMuaJZ4Yp-vwHcNEHb5YikoQmlE/edit?usp=sharing).
 
 The project is divided in deliveries defined by the professor of the course, Edgar Cambranes. Each delivery has activities and each activity has the following attributes:
 
