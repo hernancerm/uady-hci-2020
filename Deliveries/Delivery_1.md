@@ -23,22 +23,17 @@
 The problem that will be the focus of our project can be concisely summarized in the following sentence:
 
 <p align="center">
-    <b>Low development of social cognition in children with Autism Spectrum Disorder (ASD).</b>
+    <b>The College Lagging and Dropout in Faculty of Mathematics of UADY.</b>
 </p>
 
-According to the [APA Dictionary of Psychology](https://dictionary.apa.org/social-cognition), social cognition is defined as follows:
+The college lagging is very common among the students of the different degrees offered in the state of Yucatan. The Autonomous University of Yucatan (UADY) represents approximately 22% of the total enrollment of the entire state.
 
-> Cognition in which people perceive, think about, interpret, categorize, and judge their own social behaviors and those of others. The study of social cognition involves aspects of both cognitive psychology and social psychology. Major areas of interest include attribution theory, person perception, social influence, and the cognitive processes involved in moral judgments.
+According to a study carried out by the same institution in the 2013-2014 school period, a third of the students presented a history marked by: failed subjects, low grades and low percentage of accreditation in the courses taken. In this matter, the “Campus of Exact Sciences and Engineering” stands out particularly, due to a percentage of students with at least one failed subject, which represents a little more than the average.
 
-In simpler terms, social cognition is a topic covered by various branches of psychology and it refers to the cognitive processes related with perceiving, understanding and applying information about the own and other people's feelings, desires and thoughts.
+This means that only a third of the student population in this campus managed to accredit good grade in every subject. In the Faculty of Mathematics, approximately half of the students have some of the following problems: failed or recoursed subject,  or low percentage of accreditation in the courses taken.
 
-Social cognition is known to be particularly underdeveloped in people diagnosed with ASD. Symptomatic evidence of this can be confirmed by the [Diagnostic and Statistical Manual of Mental Disorders (DSM–5)](https://www.psychiatry.org/psychiatrists/practice/dsm) on the diagnosis criteria of Autism Spectrum Disorder. Several deficits related with social cognition are mentioned in criterion *A* and its sub-items, among which some points are:
+In summary, the college lagging in the Faculty of Mathematics of UADY is widely common mainly due to the factors exposed above, causing a delay in the estimated year of graduation of the students and in the worst cases, dropout.
 
-- "Persistent deficits in social communication and social interaction [...]".
-- "Deficits in social-emotional reciprocity, ranging, for example, from abnormal social approach and failure of normal back-and-forth conversation; to reduced sharing of interests, emotions, or affect; to failure to initiate or respond to social interactions."
-- "Deficits in developing, maintaining, and understanding relationships".
-
-Additionally, on an interview with Ashanty Pérez, a therapist with 20 years of experience working with _theory of mind_ (a super-set of social cognition) therapies for children with ASD, we understood that low development of social cognition is evidently observed in communication difficulties which hinder basic interaction with other people, accomplishment of simple goals and initiation of social interactions. This might lead to isolation and has a clear impact on wellbeing.
 
 ## Research planning
 
