@@ -26,12 +26,12 @@ After considering the redefinition of our project, we decided to start again to 
 
 |Task|Responsible|Due date|Status|
 |---|---|---|---|
-|User research/Select research techniques| Elena Medina, Hernán Cervera | 7 Apr |Done
+|[User research/Select research techniques](https://docs.google.com/document/d/1mGLOxeRwSIHSINqgQu0eV76q0D99UT4e07eyetx_oYA/edit?usp=sharing)| Elena Medina, Hernán Cervera | 7 Apr |Done
 |Problem definition and justification/Research| Everyone | 8 Apr|Done
 |Initial requirements/Market Analysis| Magdiel Pech |9 Apr|Done
-|User research/Elaborate instruments| Elena Medina, Hernán Cervera |10 Apr|WIP |  
+|[User research/Elaborate instruments](https://forms.gle/edv3D234cMjAUCS98)| Elena Medina, Hernán Cervera |10 Apr| Done |  
 |Initial requirements/Preliminary definition|Alvar Peniche, Magdiel Pech | 13 Apr|WIP
-|Problem definition and justification/Documentation | Magdiel Pech | 13 Apr|WIP
+|Problem definition and justification/Documentation | Magdiel Pech | 13 Apr| Done |
 
 ## 13.04.20 - 19.04.20
 
@@ -39,9 +39,23 @@ We decided to redefine our project and we started with first delivery activities
 
 |Task|Responsible|Due date|Status|
 |---|---|---|---|
-|Problem definition and justification/Documentation|Magdiel Pech|16 Apr|
-|User research/Elaborate instruments|Elena Medina, Hernán Cervera|16 Apr|
-|Initial requirements/Preliminary definition|Alvar Peniche, Magdiel Pech|16Apr|
-|Contribution metric/Documentation|Elena Medina|17 Apr|
-|Initial requirements/Documentation|Alvar Peniche|17 Apr|
-|User research/Collect data|Elena Medina, Hernán Cervera|19 Apr|
+|Problem definition and justification/Documentation|Magdiel Pech|16 Apr| Done |
+|[User research/Elaborate instruments](https://forms.gle/edv3D234cMjAUCS98)|Elena Medina, Hernán Cervera|16 Apr| Done |
+|Initial requirements/Preliminary definition|Alvar Peniche, Magdiel Pech|16Apr| WIP 
+|Contribution metric/Documentation|Elena Medina|17 Apr| Done |
+|Initial requirements/Documentation|Alvar Peniche|17 Apr| WIP |
+|User research/Collect data|Elena Medina, Hernán Cervera|19 Apr| Done |
+
+## 20.04.20 - 26.04.20
+
+The plan this week is to finish the first delivery document. For a more detailed scheduling of these tasks (and the previous tasks of the first delivery), the [general planning in Wrike](https://www.wrike.com/frontend/ganttchart/index.html?snapshotId=CjKUHWHLsWXQ6LEobqSz5ATrlRDjB15m%7CIEZTKMZVGEZDQLSTGE2A) is made available.
+
+Last week's main progress spread the elaboration and application of a [survey](https://forms.gle/edv3D234cMjAUCS98), as well as writing the problem definition and justification.
+
+|Task|Responsible|Due date|Status|
+|---|---|---|---|
+|User research/Data analysis |Elena Medina, Hernán Cervera|21 Apr| WIP |
+|User research/Documentation | Alvar Peniche | 22 Apr | To-Do |
+|Initial requirements/Preliminary definition|Alvar Peniche, Magdiel Pech| 23 Apr | To-Do |
+|Initial requirements/Documentation|Alvar Peniche|24 Apr| To-Do |
+| Planning/Documentation | Hernán Cervera | 24 Apr | To-Do |
