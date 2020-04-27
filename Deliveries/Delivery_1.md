@@ -8,14 +8,15 @@
 - [Definition and justification of the problem](#definition-and-justification-of-the-problem)
 - [Research planning](#research-planning)
 - [Learning about our users](#learning-about-our-users)
-  - [Research techniques](#research-techniques)
-    - [Interview](#interview)
-    - [Survey](#survey)
-    - [Persona](#persona)
-      - [Attributes](#attributes)
+    - [Research techniques](#research-techniques)
+        - [Interview](#interview)
+        - [Survey](#survey)
+        - [Persona](#persona)
+            - [Attributes](#attributes)
+    - [Analysis of survey results](#analysis-of-survey-results)
 - [Market analysis](#market-analysis)
 - [Metrics](#metrics)
-  - [Individual contribution and project progress](#individual-contribution-and-project-progress)
+    - [Individual contribution and project progress](#individual-contribution-and-project-progress)
 
 <!-- /TOC -->
 
@@ -100,7 +101,11 @@ Although discrete data provide certain context, attributes which answer design q
 
 ### Analysis of survey results
 
-We began direct user research through a [Google Forms survey](https://docs.google.com/forms/d/e/1FAIpQLSdWSt5c_7W73E6VW2SlbORud-nXuXmAbdKkK6zY1T-b_FMH2w/viewform) that was opened from April 18th up to April 20th. We obtained 39 responses, of which 67% are men and 33%, women, between 20 and 27 years old. The surveyed covered students from all majors offered by Facultad de Matemáticas (FMAT):
+<p align="center">
+    <img width="750px" src="images/persona.png">
+</p>
+
+We began direct user research through a [Google Forms survey](https://docs.google.com/forms/d/e/1FAIpQLSdWSt5c_7W73E6VW2SlbORud-nXuXmAbdKkK6zY1T-b_FMH2w/viewform) that was opened on April 18th. We obtained 39 responses, of which 67% are men and 33%, women, between 20 and 27 years old. The surveyed covered students from all majors offered by Facultad de Matemáticas (FMAT):
 
 - 15 students from _Licenciatura en Actuaría (LA)._
 - 4 students from _Licenciatura en Ciencias de la Computación (LCC)._
