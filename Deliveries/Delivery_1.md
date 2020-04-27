@@ -1,20 +1,21 @@
 # First delivery
 
 ## Table of contents
+
 <!-- TOC -->
 
 - [Table of contents](#table-of-contents)
 - [Definition and justification of the problem](#definition-and-justification-of-the-problem)
 - [Research planning](#research-planning)
 - [Learning about our users](#learning-about-our-users)
-    - [Research techniques](#research-techniques)
-        - [Interview](#interview)
-        - [Survey](#survey)
-        - [Persona](#persona)
-            - [Attributes](#attributes)
+  - [Research techniques](#research-techniques)
+    - [Interview](#interview)
+    - [Survey](#survey)
+    - [Persona](#persona)
+      - [Attributes](#attributes)
 - [Market analysis](#market-analysis)
 - [Metrics](#metrics)
-    - [Individual contribution and project progress](#individual-contribution-and-project-progress)
+  - [Individual contribution and project progress](#individual-contribution-and-project-progress)
 
 <!-- /TOC -->
 
@@ -30,10 +31,9 @@ The college lagging is very common among the students of the different degrees o
 
 According to a study carried out by the same institution in the 2013-2014 school period, a third of the students presented a history marked by: failed subjects, low grades and low percentage of accreditation in the courses taken. In this matter, the “Campus of Exact Sciences and Engineering” stands out particularly, due to a percentage of students with at least one failed subject, which represents a little more than the average.
 
-This means that only a third of the student population in this campus managed to accredit good grade in every subject. In the Faculty of Mathematics, approximately half of the students have some of the following problems: failed or recoursed subject,  or low percentage of accreditation in the courses taken.
+This means that only a third of the student population in this campus managed to accredit good grade in every subject. In the Faculty of Mathematics, approximately half of the students have some of the following problems: failed or recoursed subject, or low percentage of accreditation in the courses taken.
 
 In summary, the college lagging in the Faculty of Mathematics of UADY is widely common mainly due to the factors exposed above, causing a delay in the estimated year of graduation of the students and in the worst cases, dropout.
-
 
 ## Research planning
 
@@ -78,25 +78,79 @@ In the context of college lagging in FMAT, personas can be a place for concentra
 According to the [Olsen Persona Toolkit](http://www.interactionbydesign.com/presentations/olsen_persona_toolkit.pdf), psychographics and demographics in personas are most useful from a marketing standpoint; an approach out of scope for this project. Consequently, demographics are kept light and serve the purpose of making the personas feel more like a real person. The discrete data covered by the personas spans the following points:
 
 - General
-    - Photo
-    - Name
+  - Photo
+  - Name
 - Demographics
-    - Age
-    - Sex
-    - Occupation
+  - Age
+  - Sex
+  - Occupation
 - College lagging
-    - Approved academic credits
-    - Equivalent semester
-    - Number of regular inscriptions
-    - Total failed subjects
+  - Approved academic credits
+  - Equivalent semester
+  - Number of regular inscriptions
+  - Total failed subjects
 
 Although discrete data provide certain context, attributes which answer design questions during the prototyping phase are most relevant and will be emphasized in our personas. These attributes provide insight into user behavior about if and how our product will be used.
 
-| Behavioral attributes | Provided value |
-|---|---|
-| Course load focus points | Understanding what students are looking forward to in their next semester courses is important to emphasize what type of data is relevant to handle and how to make it visible. Current lagging students might be looking for a mix between easy and challenging courses, or perhaps professors who are the most willing to lend a helping hand during the course. Identifying what parameters they care about is key to understanding what we should track. |
-| Course load challenges | Challenges hint pain-points in the current process for deciding course load. By identifying these we encounter opportunity areas to improve the current experience by providing services which mitigate the challenges or design around them. |
-| Course approval challenges | Acknowledging the challenges students face against approving a college course can hint the need for a particular feature, for instance, academic resources shared by other students. |
+| Behavioral attributes      | Provided value                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Course load focus points   | Understanding what students are looking forward to in their next semester courses is important to emphasize what type of data is relevant to handle and how to make it visible. Current lagging students might be looking for a mix between easy and challenging courses, or perhaps professors who are the most willing to lend a helping hand during the course. Identifying what parameters they care about is key to understanding what we should track. |
+| Course load challenges     | Challenges hint pain-points in the current process for deciding course load. By identifying these we encounter opportunity areas to improve the current experience by providing services which mitigate the challenges or design around them.                                                                                                                                                                                                                |
+| Course approval challenges | Acknowledging the challenges students face against approving a college course can hint the need for a particular feature, for instance, academic resources shared by other students.                                                                                                                                                                                                                                                                         |
+
+### Analysis of survey results
+
+We began direct user research through a [Google Forms survey](https://docs.google.com/forms/d/e/1FAIpQLSdWSt5c_7W73E6VW2SlbORud-nXuXmAbdKkK6zY1T-b_FMH2w/viewform) that was opened from April 18th up to April 20th. We obtained 39 responses, of which 67% are men and 33%, women, between 20 and 27 years old. The surveyed covered students from all majors offered by Facultad de Matemáticas (FMAT):
+
+- 15 students from _Licenciatura en Actuaría (LA)._
+- 4 students from _Licenciatura en Ciencias de la Computación (LCC)._
+- 2 students from _Licenciatura en Enseñanza de las Matemáticas (LEM)._
+- 1 student from _Licenciatura en Ingeniería en Computación (LIC)._
+- 10 students from _Licenciatura en Ingeniería de Software (LIS)._
+- 6 students from _Licenciatura en Matemáticas (LM)._
+
+The median of the equivalent semester to which the surveyed students belong is 5 (fifth semester). This value corresponds to the information that professor Sharon Escobar had shared with us in an interview prior to the application of the survey. In her experience, during the first two semesters of bachelor’s degree, the most common cause of college dropout at FMAT is vocational. From around the third semester and henceforth, the main causes are lack of time, knowledge or abilities to satisfy college demand. She also mentioned that college dropout is a consequence of college lagging. Lack of time, knowledge or abilities are among the three main causes of college lagging reported by the students surveyed, data which aligns with the information provided by professor Sharon.
+
+College lagging is a consequence of failing one or more subjects, thus we are interested in knowing why FMAT students fail. According to survey results, the main reasons are:
+
+1. Lack of time to satisfy college demand (61.5%).
+2. The selection of professors could be better (59%).
+3. Does not have the required knowledge or abilities (53.8%).
+4. Lack of discipline and motivation (48.7%).
+5. Lack of quality course resources (28.2%).
+
+Likewise, we want to know what students consider to do their academic load and what difficulties they face in the process. We notice that 79.5% of students take into account other students’ opinions to decide the professor they will be picking for the courses. The main professor’s characteristics that students consider are:
+
+1. Clearly explains the topics of the subject (84.6%).
+2. Shows expertise on the subject (82.1%).
+3. Willingly provides help (64.1%).
+4. Provides clear instructions to the assignments (64.1%).
+5. Shows enthusiasm for the subject (64.1%).
+
+In addition, 64.1% of students prefer a balance between professors with low and high levels of demand, 30.8% choose just the most demanding professors and only 5.1% prefer the less demanding professors.
+
+Regarding subject prerequisite, students consider:
+
+1. If a subject is sequential against another in the curriculum mesh (56.4%).
+2. If a subject requires knowledge of another subject, but it is not explicitly serialized (53.8%).
+3. Minimum required knowledge of prerequisite subjects (53.8%).
+
+Finally, the main difficulty students face to do their academic load is that they don’t know the characteristics that interest them about the professors.
+
+Initially, we intended to define two different personas, so we divided survey results in two groups. First group corresponds to majors related to computer science (LIS, LCC, LIC) and the second group corresponds to majors related to mathematics (LA, LEM, LM). An [informal comparison](https://docs.google.com/spreadsheets/d/1-gzGV5pp8Rn_IsT4TfXfWIbQBrE536f3DgQXlQ6IXjk/edit#gid=1722935349) was made between the results of both groups and we didn’t find a significant difference between them. Regarding demographic data and students' college lagging situations, the measures of central tendency were very similar in both groups. The data about the characteristics that students consider to do their academic load and the difficulties they face in the process are similar in both groups. For each question, main answers remain, but in some cases their positions change.
+Let's take the following question as an example: What points have contributed to failing a subject?
+The most chosen responses by the first group are:
+
+1. Lack of discipline and motivation, the selection of professors could be better, lack of time to satisfy college demand.
+2. Does not have the required knowledge or abilities.
+
+and by the second group are:
+
+1. Lack of time to satisfy college demand.
+2. Lack of discipline and motivation, the selection of professors could be better.
+3. Does not have the required knowledge or abilities.
+
+As you can see, the same responses are in both groups. Only its position varies, "Lack of discipline and motivation" is in first spot for group 1 and in second spot, for group 2.
 
 ## Market analysis
 
