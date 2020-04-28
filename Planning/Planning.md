@@ -59,3 +59,20 @@ Last week's main progress spread the elaboration and application of a [survey](h
 |Initial requirements/Preliminary definition|Alvar Peniche, Magdiel Pech| 23 Apr | To-Do |
 |Initial requirements/Documentation|Alvar Peniche|24 Apr| To-Do |
 | Planning/Documentation | Hernán Cervera | 24 Apr | To-Do |
+
+## 27.04.20 - 03.05.20
+
+The planning this week is begin with the second delivery of the project. We have separated the assignments equally for each of the members in this second delivery. For a more detailed scheduling of these tasks (and the previous tasks of the first delivery), the [general planning in Wrike](https://www.wrike.com/frontend/ganttchart/index.html?snapshotId=CjKUHWHLsWXQ6LEobqSz5ATrlRDjB15m%7CIEZTKMZVGEZDQLSTGE2A) is made available.
+
+
+|Task|Responsible|Due date|Status|
+|---|---|---|---|
+|User research/Data analysis |Elena Medina, Hernán Cervera|21 Apr| Done |
+|User research/Documentation | Alvar Peniche | 22 Apr | To-Do |
+|Initial requirements/Preliminary definition|Alvar Peniche, Magdiel Pech| 23 Apr | Done |
+|Initial requirements/Documentation|Alvar Peniche|24 Apr| To-Do |
+| Planning/Documentation | Hernán Cervera | 24 Apr | Done |
+| Style guidelines | Alvar Peniche, Magdiel Pech | 29 Apr | To-Do |
+| New requirements | Hernán Cervera, Elena Medina | 30 Apr | To-Do |
+| Mockups | Alvar Peniche, Magdiel Pech | 4 May | To-Do |
+
