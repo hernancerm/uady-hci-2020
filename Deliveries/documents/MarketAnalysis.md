@@ -36,7 +36,7 @@ In this system there is no rating for each teacher, however, you can view the co
 
 [More about Profesores UdG](https://www.profesores-udg.com.mx/)
 
-##Mis Profesores:
+## Mis Profesores:
 
 Mis Profesores is a web page that allows you to rate teachers from different institutions, where you can filter by teacher or by university.
 
