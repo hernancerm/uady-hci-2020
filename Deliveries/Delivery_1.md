@@ -8,15 +8,16 @@
 - [Definition and justification of the problem](#definition-and-justification-of-the-problem)
 - [Planning](#planning)
 - [Learning about our users](#learning-about-our-users)
-  - [Research techniques](#research-techniques)
-    - [Interview](#interview)
-    - [Survey](#survey)
-    - [Persona](#persona)
-      - [Attributes](#attributes)
-  - [Analysis of survey results](#analysis-of-survey-results)
+    - [Research techniques](#research-techniques)
+        - [Interview](#interview)
+        - [Survey](#survey)
+        - [Persona](#persona)
+            - [Attributes](#attributes)
+    - [Analysis of survey results](#analysis-of-survey-results)
 - [Market analysis](#market-analysis)
+- [Functional requirements](#functional-requirements)
 - [Metrics](#metrics)
-  - [Individual contribution and project progress](#individual-contribution-and-project-progress)
+    - [Individual contribution and project progress](#individual-contribution-and-project-progress)
 
 <!-- /TOC -->
 
