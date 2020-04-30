@@ -6,7 +6,7 @@
 
 - [Table of contents](#table-of-contents)
 - [Definition and justification of the problem](#definition-and-justification-of-the-problem)
-- [Research planning](#research-planning)
+- [Planning](#planning)
 - [Learning about our users](#learning-about-our-users)
     - [Research techniques](#research-techniques)
         - [Interview](#interview)
@@ -36,15 +36,13 @@ This means that only a third of the student population in this campus managed to
 
 In summary, the college lagging in the Faculty of Mathematics of UADY is widely common mainly due to the factors exposed above, causing a delay in the estimated year of graduation of the students and in the worst cases, dropout.
 
-## Research planning
+## Planning
 
-Tasks are planned using a Gantt chart generated in [Wrike](https://www.wrike.com/), a work planning application. Since it is not possible to produce a view-only url to the chart, an image of the past activities is provided below.
+Tasks are planned using a Gantt chart generated in [Wrike](https://www.wrike.com/frontend/ganttchart/index.html?snapshotId=LUWOTj7dM1zguErzgxGjhIF6NghJ7PNK%7CIEZTKMZVGEZDQLSTGE2A), a work planning application.
 
 <p align="center">
     <img width="750px" src="images/planning.png">
 </p>
-
-Tasks in blue are not completed, whilst tasks in green are done. For this delivery our debt comprises the definition of target users. Although we have defined the user [research techniques](#research-techniques), observations are yet to be made and more data needs to be collected to build correct and useful personas.
 
 ## Learning about our users
 
