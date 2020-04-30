@@ -8,15 +8,15 @@
 - [Definition and justification of the problem](#definition-and-justification-of-the-problem)
 - [Planning](#planning)
 - [Learning about our users](#learning-about-our-users)
-    - [Research techniques](#research-techniques)
-        - [Interview](#interview)
-        - [Survey](#survey)
-        - [Persona](#persona)
-            - [Attributes](#attributes)
-    - [Analysis of survey results](#analysis-of-survey-results)
+  - [Research techniques](#research-techniques)
+    - [Interview](#interview)
+    - [Survey](#survey)
+    - [Persona](#persona)
+      - [Attributes](#attributes)
+  - [Analysis of survey results](#analysis-of-survey-results)
 - [Market analysis](#market-analysis)
 - [Metrics](#metrics)
-    - [Individual contribution and project progress](#individual-contribution-and-project-progress)
+  - [Individual contribution and project progress](#individual-contribution-and-project-progress)
 
 <!-- /TOC -->
 
@@ -158,6 +158,20 @@ As you can see, the same responses are in both groups. Only its position varies,
 ## Market analysis
 
 The preliminary market analysis done for this delivery can be found in a [separate document](documents/MarketAnalysis.md). The purpose of this research and analysis is to understand what has been developed and what features or areas are still unexplored by the market.
+
+## Functional requirements
+
+1. The user will have to log-in to the system before writing a review.
+2. The user can filter through a search bar the name of the teacher they need.
+3. The user will be able to add a new teacher to the system.
+4. The user will be able to make a review of an existing teacher.
+5. The user will specify what subject he studied with the teacher.
+6. The user will answer a questions rating the teacher's performance in the subject taught.
+7. The user will be able to add a comment about the teacher.
+8. The user will be able to view the teacher's profile with their reviews.
+9. The user will be able to validate the skills of the teacher's profile related to the subject.
+10. The user may indicate that they agree with another review.
+11. The user will be able to report an existing review.
 
 ## Metrics
 
