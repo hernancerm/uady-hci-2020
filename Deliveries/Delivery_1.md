@@ -1,96 +1,190 @@
-# Learning about our users
+# First delivery
 
-> The information in this document is synthesized in a [Google Slides presentation](https://docs.google.com/presentation/d/1aUbKOclu5MvQBYeWlLE0W4tgN_4UJX_7so7zeKGZl2s/edit?usp=sharing). Furthermore, we have a [YouTube video](https://youtu.be/rqo8IsYnp-M) presenting the slides.
+## Table of contents
+
+<!-- TOC -->
+
+- [Table of contents](#table-of-contents)
+- [Definition and justification of the problem](#definition-and-justification-of-the-problem)
+- [Planning](#planning)
+- [Learning about our users](#learning-about-our-users)
+    - [Research techniques](#research-techniques)
+        - [Interview](#interview)
+        - [Survey](#survey)
+        - [Persona](#persona)
+            - [Attributes](#attributes)
+    - [Analysis of survey results](#analysis-of-survey-results)
+- [Market analysis](#market-analysis)
+- [Functional requirements](#functional-requirements)
+- [Metrics](#metrics)
+    - [Individual contribution and project progress](#individual-contribution-and-project-progress)
+
+<!-- /TOC -->
 
 ## Definition and justification of the problem
 
 The problem that will be the focus of our project can be concisely summarized in the following sentence:
 
 <p align="center">
-    <b>Low development of social cognition in children with Autism Spectrum Disorder (ASD).</b>
+    <b>The College Lagging and Dropout in Faculty of Mathematics of UADY.</b>
 </p>
 
-According to the [APA Dictionary of Psychology](https://dictionary.apa.org/social-cognition), social cognition is defined as follows:
+The college lagging is very common among the students of the different degrees offered in the state of Yucatan. The Autonomous University of Yucatan (UADY) represents approximately 22% of the total enrollment of the entire state.
 
-> Cognition in which people perceive, think about, interpret, categorize, and judge their own social behaviors and those of others. The study of social cognition involves aspects of both cognitive psychology and social psychology. Major areas of interest include attribution theory, person perception, social influence, and the cognitive processes involved in moral judgments.
+According to a study carried out by the same institution in the 2013-2014 school period, a third of the students presented a history marked by: failed subjects, low grades and low percentage of accreditation in the courses taken. In this matter, the “Campus of Exact Sciences and Engineering” stands out particularly, due to a percentage of students with at least one failed subject, which represents a little more than the average.
 
-In simpler terms, social cognition is a topic covered by various branches of psychology and it refers to the cognitive processes related with perceiving, understanding and applying information about the own and other people's feelings, desires and thoughts.
+This means that only a third of the student population in this campus managed to accredit good grade in every subject. In the Faculty of Mathematics, approximately half of the students have some of the following problems: failed or recoursed subject, or low percentage of accreditation in the courses taken.
 
-Social cognition is known to be particularly underdeveloped in people diagnosed with ASD. Symptomatic evidence of this can be confirmed by the [Diagnostic and Statistical Manual of Mental Disorders (DSM–5)](https://www.psychiatry.org/psychiatrists/practice/dsm) on the diagnosis criteria of Autism Spectrum Disorder. Several deficits related with social cognition are mentioned in criterion *A* and its sub-items, among which some points are:
+In summary, the college lagging in the Faculty of Mathematics of UADY is widely common mainly due to the factors exposed above, causing a delay in the estimated year of graduation of the students and in the worst cases, dropout.
 
-* "Persistent deficits in social communication and social interaction [...]".
-* "Deficits in social-emotional reciprocity, ranging, for example, from abnormal social approach and failure of normal back-and-forth conversation; to reduced sharing of interests, emotions, or affect; to failure to initiate or respond to social interactions."
-* "Deficits in developing, maintaining, and understanding relationships".
+## Planning
 
-Additionally, on an interview with Ashanty Pérez, a therapist with 20 years of experience working with _theory of mind_ (a super-set of social cognition) therapies for children with ASD, we understood that low development of social cognition is evidently observed in communication difficulties which hinder basic interaction with other people, accomplishment of simple goals and initiation of social interactions. This might lead to isolation and has a clear impact on wellbeing.
-
-## Research planning
-
-Tasks are planned using a Gantt chart generated in [Wrike](https://www.wrike.com/), a work planning application. Since it is not possible to produce a view-only url to the chart, an image of the past activities is provided below.
+Tasks are planned using a Gantt chart generated in [Wrike](https://www.wrike.com/frontend/ganttchart/index.html?snapshotId=LUWOTj7dM1zguErzgxGjhIF6NghJ7PNK%7CIEZTKMZVGEZDQLSTGE2A), a work planning application.
 
 <p align="center">
     <img width="750px" src="images/planning.png">
 </p>
 
-Tasks in blue are not completed, whilst tasks in green are done. For this delivery our debt comprises the definition of target users. Although we have defined the user [research techniques](#research-techniques), observations are yet to be made and more data needs to be collected to build correct and useful personas.
-
-## Identifying target users
+## Learning about our users
 
 ### Research techniques
 
-Before investing time into defining a proposal to tackle the aforementioned problem, knowing our target users will definitely prove very valuable in the later ideation phase of the project. For the purpose of identifying target users several techniques are used.
+Due to time constraints, light research techniques are chosen over logistically complex techniques, such as focus groups. However, it is still relevant to account for techniques which can provide both demographic and behavioral data. According to our constraints and needs, surveys and interviews are the best choice to collect data, while personas provide a useful synthesis of the findings. Although an interview is not logistically trivial, we deem it can provide very useful information which might not be collected through a survey.
 
 #### Interview
 
-Get to know the users through the lens of an expert in the field. (Expert opinion). This accelerates and deepens understanding of users. Regarding structure, semi-structured interviews were chosen to provide a balance between quantitative data collection and qualitative discussions. Audio of each interview is recorded when interviewee provides consent and when the context allows it.
+Most of the user research data is collected through surveys because of time limitations. However, in addition to the personal stance of each student regarding their academic lagging and course load focus points, we decided that getting to know the [perspective of M.O.C.E. Sharon Escobar](https://docs.google.com/document/d/1JYiS7qN4cI6aELYs5BIGxbX5_8oJCv24ssoIQLMZnR8/edit?usp=sharing), who is jointly in charge of Departamento de Orientación y Consejo Educativo (DOCE) along with Laura Sánchez, about the topics can be of great value, specially for building a high level appreciation of the problem. The interview is realized through Google Hangouts, is semi-structured and aims to collect qualitative over quantitative data.
 
-#### Observation
+#### Survey
 
-In addition to the expert opinion gathered during interviews, observation of the users provides a better understanding of their context of use, challenges and needs. The observation is performed directly when children are in a session of social cognition therapy.
+This is the primary technique to collect user data. Direct user data is collected through interviews, asking for both demographic, academic lagging situation and behavioral aspects better explained in the [persona attributes section](#attributes). All survey questions are closed, thus easing the analysis process. For the development of the instrument, [planning](https://docs.google.com/document/d/1-E-l1MsTpaTzvSSsh_zbFpiRI7vKQ1D3-QuvS3-VavA/edit?usp=sharing) between Elena and Hernán was done to determine the target audience, objectives and broad sections of the survey. The implementation of the instrument exists as a [Google Forms survey](https://forms.gle/RMYWEKWCQqM96fQW9).
 
 #### Persona
 
-This tool helps focus user gathered information into a concise representation. Personas can be used to prioritize requirements according to user's needs and goals as well as to avoid discussion and implementation of unnecessary features. Additionally, key non-funcional requirements may be present in instances of this tool. Regarding structure, the following characteristics are considered for a persona:
+> "Personas are basically digestion of formative work."
+>
+> — Predrag Klasnja on [UX Design: From Concept to Prototype](https://www.coursera.org/lecture/ux-design-concept-wireframe/lesson-1-personas-JgbbA)
 
-| Characteristic | Description and provided value |
-|---|---|
-| Photograph | A photograph helps humanize the persona, reminding everyone that we are designing for people who have specific challenges, goals, needs, etc. |
-| Name | Similarly to a photograph, a name makes it easier to empathize with the persona. |
-| Age | Demographic data that is very likely to shape other characteristics of the persona. |
-| Mental disability | Specific diagnosis. This has a broad impact on the persona and can further provide information by focusing literature revision. |
-| Family | Family is a key part of a person's social life and it is important to understand family compositions. |
-| Needs | What are the current unmet needs of our users. This includes any resource or support currently lacking in the context of use. |
-| Goals | We want to understand user's ultimate goals to ensure our product enables them to achieve them in the best way possible. This has an impact on prioritization of functional requirements. |
-| Challenges | This encompasses any barrier that is present to the user and indicates what elements we should avoid and, if necessary to include, what elements we should provide special consideration in their design. Key non-functional requirements could be present here. |
-| Affinity to technology | This provides an baseline indicator for how likely the product is to be adopted by our target users. |
-| Familiar/Anxious about | To increase ease of adoption and satisfaction of use, it is important to understand what the users are comfortable and familiar with. On the other hand, we should strive to avoid including in the design any element which is anxious-provoking. |
-| Context of use | How, when and with whom is the product used. |
+Persona is a widespread UX tool which provides a synthesis of user research that is relevant to designers, marketing teams and business stakeholders. In the scope of this HCI college project, all the benefits we can obtain from personas are limited to those that a design team would expect, since we are not doing marketing work let alone have business stakeholders involved. As a team who will do design work in the next phase, we expect a properly built persona to provide us with the following:
 
-### Exploratory interviews
+- Summarize user research data and information into a tool that provides a mental shortcut for design considerations, i. e. “[personas] must be able to answer all the questions I will have when I am redesigning an experience”, as Katrina Benco mentions in a [TandemSeven article](https://www.tandemseven.com/experience-design/5-signs-youre-creating-personas-that-wont-be-effective/).
+- Remind ourselves that we might be designing for people who are very different from us.
+- Allow a discussion among ourselves about who the intended users are.
 
-The purpose of the exploratory interviews was two-fold: (1) gather initial and general information about children with ASD in Mérida, Yucatán and (2) explore any problems they have related with language.
+In the context of college lagging in FMAT, personas can be a place for concentrating course load selection challenges and any other academic circumstance linked to our problem definition. Due to time constraints, only focal personas are considered.
 
-The first approach we had in the field was through a semi-structured interview with Víctor Prudencio, an occupational therapist who has ample experience working with children diagnosed with Autistic Spectrum Disorder (ASD). Here we understood that language, focus and socializing are common challenges for children with ASD. These findings aligned with our reading of Diagnostic and Statistical Manual of Mental Disorders, DSM-5.
+##### Attributes
 
-To further understand children with ASD and their challenges associated with language, we conducted an semi-structured interview with Ashanty Pérez, a language therapist who has 20 years of experience working with children with ASD and specializes on developing theory of mind with patients over 3 years old. She also works with low and high-technology Augmentative and Alternative Communication (AAC) devices, and informed us that children have much higher adoption of high-technology mediums (i.e. mobile apps). We also learned that language development is key to children's wellbeing, as it allows  him or her to effectively communicate desires and needs. AAC devices are widely used for this purpose, and they don't only improve life-quality of these children, but also of their relatives.
+According to the [Olsen Persona Toolkit](http://www.interactionbydesign.com/presentations/olsen_persona_toolkit.pdf), psychographics and demographics in personas are most useful from a marketing standpoint; an approach out of scope for this project. Consequently, demographics are kept light and serve the purpose of making the personas feel more like a real person. The discrete data covered by the personas spans the following points:
 
-A next-step challenge, related with language, for children who have become comfortable with expressing basic needs and desires through AAC tools, is developing social cognition: understanding social situations, which includes comprehending other people's feelings, thoughts, beliefs and how they differ from the own.
+- General
+  - Photo
+  - Name
+- Demographics
+  - Age
+  - Sex
+  - Occupation
+- College lagging
+  - Approved academic credits
+  - Equivalent semester
+  - Number of regular inscriptions
+  - Total failed subjects
+
+Although discrete data provide certain context, attributes which answer design questions during the prototyping phase are most relevant and will be emphasized in our personas. These attributes provide insight into user behavior about if and how our product will be used.
+
+| Behavioral attributes      | Provided value                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Course load focus points   | Understanding what students are looking forward to in their next semester courses is important to emphasize what type of data is relevant to handle and how to make it visible. Current lagging students might be looking for a mix between easy and challenging courses, or perhaps professors who are the most willing to lend a helping hand during the course. Identifying what parameters they care about is key to understanding what we should track. |
+| Course load challenges     | Challenges hint pain-points in the current process for deciding course load. By identifying these we encounter opportunity areas to improve the current experience by providing services which mitigate the challenges or design around them.                                                                                                                                                                                                                |
+| Course approval challenges | Acknowledging the challenges students face against approving a college course can hint the need for a particular feature, for instance, academic resources shared by other students.                                                                                                                                                                                                                                                                         |
+
+### Analysis of survey results
+
+<p align="center">
+    <img width="750px" src="images/persona.png">
+</p>
+
+We began direct user research through a [Google Forms survey](https://docs.google.com/forms/d/e/1FAIpQLSdWSt5c_7W73E6VW2SlbORud-nXuXmAbdKkK6zY1T-b_FMH2w/viewform) that was opened on April 18th. We obtained 39 responses, of which 67% are men and 33%, women, between 20 and 27 years old. The surveyed covered students from all majors offered by Facultad de Matemáticas (FMAT):
+
+- 15 students from _Licenciatura en Actuaría (LA)._
+- 4 students from _Licenciatura en Ciencias de la Computación (LCC)._
+- 2 students from _Licenciatura en Enseñanza de las Matemáticas (LEM)._
+- 1 student from _Licenciatura en Ingeniería en Computación (LIC)._
+- 10 students from _Licenciatura en Ingeniería de Software (LIS)._
+- 6 students from _Licenciatura en Matemáticas (LM)._
+
+The median of the equivalent semester to which the surveyed students belong is 5 (fifth semester). This value corresponds to the information that professor Sharon Escobar had shared with us in an interview prior to the application of the survey. In her experience, during the first two semesters of bachelor’s degree, the most common cause of college dropout at FMAT is vocational. From around the third semester and henceforth, the main causes are lack of time, knowledge or abilities to satisfy college demand. She also mentioned that college dropout is a consequence of college lagging. Lack of time, knowledge or abilities are among the three main causes of college lagging reported by the students surveyed, data which aligns with the information provided by professor Sharon.
+
+College lagging is a consequence of failing one or more subjects, thus we are interested in knowing why FMAT students fail. According to survey results, the main reasons are:
+
+1. Lack of time to satisfy college demand (61.5%).
+2. The selection of professors could be better (59%).
+3. Does not have the required knowledge or abilities (53.8%).
+4. Lack of discipline and motivation (48.7%).
+5. Lack of quality course resources (28.2%).
+
+Likewise, we want to know what students consider to do their academic load and what difficulties they face in the process. We notice that 79.5% of students take into account other students’ opinions to decide the professor they will be picking for the courses. The main professor’s characteristics that students consider are:
+
+1. Clearly explains the topics of the subject (84.6%).
+2. Shows expertise on the subject (82.1%).
+3. Willingly provides help (64.1%).
+4. Provides clear instructions to the assignments (64.1%).
+5. Shows enthusiasm for the subject (64.1%).
+
+In addition, 64.1% of students prefer a balance between professors with low and high levels of demand, 30.8% choose just the most demanding professors and only 5.1% prefer the less demanding professors.
+
+Regarding subject prerequisite, students consider:
+
+1. If a subject is sequential against another in the curriculum mesh (56.4%).
+2. If a subject requires knowledge of another subject, but it is not explicitly serialized (53.8%).
+3. Minimum required knowledge of prerequisite subjects (53.8%).
+
+Finally, the main difficulty students face to do their academic load is that they don’t know the characteristics that interest them about the professors.
+
+Initially, we intended to define two different personas, so we divided survey results in two groups. First group corresponds to majors related to computer science (LIS, LCC, LIC) and the second group corresponds to majors related to mathematics (LA, LEM, LM). An [informal comparison](https://docs.google.com/spreadsheets/d/1-gzGV5pp8Rn_IsT4TfXfWIbQBrE536f3DgQXlQ6IXjk/edit#gid=1722935349) was made between the results of both groups and we didn’t find a significant difference between them. Regarding demographic data and students' college lagging situations, the measures of central tendency were very similar in both groups. The data about the characteristics that students consider to do their academic load and the difficulties they face in the process are similar in both groups. For each question, main answers remain, but in some cases their positions change.
+Let's take the following question as an example: What points have contributed to failing a subject?
+The most chosen responses by the first group are:
+
+1. Lack of discipline and motivation, the selection of professors could be better, lack of time to satisfy college demand.
+2. Does not have the required knowledge or abilities.
+
+and by the second group are:
+
+1. Lack of time to satisfy college demand.
+2. Lack of discipline and motivation, the selection of professors could be better.
+3. Does not have the required knowledge or abilities.
+
+As you can see, the same responses are in both groups. Only its position varies, "Lack of discipline and motivation" is in first spot for group 1 and in second spot, for group 2.
 
 ## Market analysis
 
 The preliminary market analysis done for this delivery can be found in a [separate document](documents/MarketAnalysis.md). The purpose of this research and analysis is to understand what has been developed and what features or areas are still unexplored by the market.
 
+## Functional requirements
+
+1. The user will have to log-in to the system before writing a review.
+2. The user can filter through a search bar the name of the teacher they need.
+3. The user will be able to add a new teacher to the system.
+4. The user will be able to make a review of an existing teacher.
+5. The user will specify what subject he studied with the teacher.
+6. The user will answer a questions rating the teacher's performance in the subject taught.
+7. The user will be able to add a comment about the teacher.
+8. The user will be able to view the teacher's profile with their reviews.
+9. The user will be able to validate the skills of the teacher's profile related to the subject.
+10. The user may indicate that they agree with another review.
+11. The user will be able to report an existing review.
+
 ## Metrics
 
 ### Individual contribution and project progress
 
-> This metric has been applied to the first delivery of the project. The detailed application can be found in a [Google Sheets document](https://docs.google.com/spreadsheets/d/1PG3QAMMSaIHhpFBE-icTz4Kvc2XZR41v1gc5CbGukCs/edit?usp=sharing).
+> This metric has been applied to the first delivery of the project. The detailed application can be found in a [Google Sheets document](https://docs.google.com/spreadsheets/d/1LhBCNRYAx3nGcG9hvMuaJZ4Yp-vwHcNEHb5YikoQmlE/edit?usp=sharing).
 
 The project is divided in deliveries defined by the professor of the course, Edgar Cambranes. Each delivery has activities and each activity has the following attributes:
 
-* **Complexity Points (CP):** The scale is based on Fibonacci sequence (3, 5, 8 and 13). Instead of using consecutive integers, the Fibonacci sequence was preferred because points scale better, highlighting those who contribute the most. The CP for each activity is assigned in a team meeting, guaranteeing consensus.
-* **Delivery Percentage of Completion:** Percentage assigned to each activity based on the total percentage delivery activities. It is defined as the product of the activity CP by the ratio of one hundred among the total number of delivery activities. `(100 / total number of activities) * Activity CP`.
-* **Criteria:** Define the sub-activities done in each activity and depending on those sub-activities, the team can have a better idea of ​​how many CP each member deserves.
-* **Number of points assigned to each member:** Every activity has a specific CP that is divided among team members that worked on the activity. The whole team decides how many CP of the activity will be assigned to each member (distribution doesn't have to be equal). CP sum of all members who worked on the activity has to be the same as the total CP of the activity.
+- **Complexity Points (CP):** The scale is based on Fibonacci sequence (3, 5, 8 and 13). Instead of using consecutive integers, the Fibonacci sequence was preferred because points scale better, highlighting those who contribute the most. The CP for each activity is assigned in a team meeting, guaranteeing consensus.
+- **Delivery Percentage of Completion:** Percentage assigned to each activity based on the total percentage delivery activities. It is defined as the product of the activity CP by the ratio of one hundred among the total number of delivery activities. `(100 / total number of activities) * Activity CP`.
+- **Criteria:** Define the sub-activities done in each activity and depending on those sub-activities, the team can have a better idea of ​​how many CP each member deserves.
+- **Number of points assigned to each member:** Every activity has a specific CP that is divided among team members that worked on the activity. The whole team decides how many CP of the activity will be assigned to each member (distribution doesn't have to be equal). CP sum of all members who worked on the activity has to be the same as the total CP of the activity.
 
 The individual contribution is calculated for each delivery. The calculation is done by dividing one hundred by the total CP of the delivery. The result is multiplied by the total CPs of each team member and the result is expressed in a percentage. The sum of the individual contribution percentage of each team member in a delivery is the current delivery progress.

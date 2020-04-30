@@ -1,106 +1,51 @@
 # Market analysis
 
-## AutisMIND
+## Rate My Professors
 
-AutisMIND is an app to stimulate the development of Mind Theory and social thinking in children with Autism Spectrum Disorders.
+Rate My Professors is a website that allows you to leave a score on a professor at your university.
 
-AutisMIND contains 10 different themes related to aspects of the Theory of Mind, with 6 levels of increasing difficulty and more than 1,000 recreational and interactive exercises.
+To use the application you have three alternatives:
 
-In this application, the themes chosen focus on precursor skills to social thinking, such as joint attention or the ability to symbolize, without these it is very difficult to develop the Theory of Mind, which allows the child to infer mental states in the other and adjust their own behavior to adapt to a given situation.
+1. Search for a professor, it will ask for the institution's name and the professor's name, then you will be able to see the professor's profile, with an average rating of 0 to 5, also the comments that different students have left about him, in those comments you will see the level of difficulty of their subject, the quality of teaching, if he ask for a book, if attendance is relevant and a short review for the teacher.
 
-### Topics addressed:
+2. Search for a university and see the reviews that students leave about it, from comments to find out if the internet is good, if the school cafeteria provides good service, if the library is good, managing a rating from 0 to 5.
 
-* Joint attention
-* Secondary emotions
-* Interpretation of
-* emotions by context
-* Physical sensations
-* Organs of the senses
-* Basic emotions
-* Global perception
-* Anticipation of actions
-* Symbolization
-* Visual perspectives
+3. To qualify a teacher, first you will have to add the teacher's name and it will show you the match that it makes with the teachers and the universities where he teaches their subject. Then the system gives you some tips on how you should evaluate a teacher, check the grammar of your comment and correctly specify your course, talk about the teacher's skills, how he teaches the subject and how clear he is when speaking, his class dynamics, the system also advises you that you should not make offensive comments towards the teacher, or denigrate his profession, nor should you say if he has favorites or something like that, irrelevant topics. After reading the tips, you start by adding the subject taught by the teacher, asking for a grade from 0 to 5 towards the teacher, also the level of difficulty of the course, later asking if you would take a course with the professor again, if he asks you for a book, if the assists are relevant, your grade obtained in the course and finally, a review of the teacher.
 
-
-Some of the most important features of the app include:
-
-* **Simple and intuitive use:** designed for accessible navigation for people with ASD.
-
-* **Immediate feedback and positive reinforcement:** motivate the child and let him know instantly if he has done well or what would be the correct answer if that is the case.
-
-* **Learning without error:** the app offers aids, tutorials and visual aids to avoid frustration and ensure a successful learning without error.
-
-* **Detailed follow-up of the evolution:** it records the response time, the successes and errors of the child and allows you to consult the evolution at any time, also allows you to export the charts in pdf to evaluate the effectiveness and performance.
-
-* **Multi-user:** the app allows the creation of different users for professional use, being able to create different profiles and use it with different children.
-
-* **Customizable configuration:** allows you to adapt the application to suit each child, allowing you to program some features and choose reinforcement, support, etc.
-
-In clinical practice with children with ASD, specific intervention is essential to stimulate ToM and facilitate social thinking. A deficit in this ability inevitably affects the development of social skills and the establishment of positive social interactions, making adaptation and subsequent integration in the context difficult.
-
-Through AutisMIND, the development of ToM can be stimulated in different ways, (individually or in groups) and in different contexts (in the classroom, at home, in a treatment session ...) although it is recommended that it be used guided by a facilitator who act as an aid to learn, think, debate and reflect on the different situations and exercises presented. This allows children to comment and explain their different points of view, listen to others, provide examples of situations experienced and cooperatively, find a solution to the problems raised.
-
-When implementing any technological resource with people with special educational needs (SEN), some aspects must be taken into account, always promoting good use and avoiding abuse. The misuse of some applications or devices can have iatrogenic consequences and generate habits that, once established, can be very difficult to change.
-
-Another important aspect is portability; due to batteries, internet and the cloud, the information can be available anywhere, greatly facilitating the generalization of learning to all user contexts, as well as enabling the joint participation of the network of professionals and families that accompany the people with ASD.
-
-### AutisMIND screenshots
+This website allows you to create an account to display your comment generated to the teacher, however, it also allows you to leave the comment anonymously.
 
 <p align="center">
-    <img width="600px" src="../images/autismind1.png">
+    <img width="600px" src="../images/rateprof.jpg">
+</p>
+
+[More about Rate My Professors](https://www.ratemyprofessors.com/)
+
+## Profesores UdG
+
+Profesores UdG is a web page that allows you to rate the professors of different departments of the University of Guadalajara. On the main page you can search the name of the teacher you need, also you can search by department and see the latest added comments for each teacher.
+
+In this system there is no rating for each teacher, however, you can view the comments that different classmates have left about him. Also, you can leave a review of the teacher and answer some basic questions about the teacher and his teaching methods.
+
+<p align="center">
+    <img width="600px" src="../images/profudg.jpg">
 </p>
 
 <p align="center">
-    <img width="600px" src="../images/autismind2.png">
+    <img width="600px" src="../images/profudg2.jpg">
 </p>
 
-[More about autisMIND](https://autismind.com/)
+[More about Profesores UdG](https://www.profesores-udg.com.mx/)
 
-## TICO Project
+## Mis Profesores:
 
-TICO Project (Tableros Interactivos de COmunicación) is a computer application to generate and use communication boards interactively. The program consists of two independent and differentiated but complementary applications: Editor and Interpreter.
+Mis Profesores is a web page that allows you to rate teachers from different institutions, where you can filter by teacher or by university.
 
-With the editor's application you can create communication boards with contain visual, auditory or environment control elements.
+By teacher: When you filter by teacher you will be able to view the teacher's profile, a rating from 1 to 10, if it is recommended to take classes with him and the level of difficulty of passing a subject with him, also you will be able to see a tags that students add to their profile, such as: "be prepared to read", "very demanding", "respect the students", etc. You will also be able to see the comments of different students as well as their obtained grade and the review they leave for the teacher.
 
-With the interpreter's application, the boards previously created with the editor's application can be visualized to develop communicative limitations and to help specialists in their therapies.
-
-Although, the problems of social cognition arise when trying to externalize the thoughts as well as when internalizing them, this type of activities, such as following a communication process through cards that help you to externalize the thoughts through mechanics such as performing consecutive actions Well, regularly children with these types of problems believe that we all know what goes through their mind.
- 
-Having several boards to structure and outsource your thoughts becomes a great help, because the child can add structures to order an object or express what he feels, for example: "I" + " feel" + " happy". The child, being able to outsource structures of that style, exercises his communication and adds central and global coherence to his language.
-
-### TICO Project screenshots
+By universities: only shows you the universities and the professor's name, then the profile of the professor you want to see.
 
 <p align="center">
-    <img width="300px" src="../images/tico1.png">
+    <img width="600px" src="../images/misprof.jpg">
 </p>
 
-<p align="center">
-    <img width="550px" src="../images/tico2.png">
-</p>
-
-[More about project TICO](http://www.arasaac.org/software.php)
-
-## ¿Qué tal estás? App
-
-¿Qué tal estás? App is an application created to work and develop the identification and expression of children's emotions with ASD.
-
-The application is available in 6 languages ​​and consists of a very simple drawing environment with 12 emotions (happiness, enthusiasm, crush, surprise, well-being, boredom, shyness, shame, fear, worry, sadness and anger), the child will have to compose with drawings that represent the eyes and mouth.
-
- The child has a little help that he can use up to 3 times and once the emotion is resolved, he will photograph himself imitating it, so that he can generate empathy for people's feelings and be able to better understand the "how I feel "and the" how it feels "because with the problems of social congestion there is usually no such perception.
-
-In addition, the game allows us to use it the other way around, guess the emotion according to the image we take, with this, we can develop in them recognizing emotions and feelings of other people in their eyes, tuning in with the eyes of another, trying to understand mental states and try to understand people's behavior through their emotions.
-
-These types of activities are usually additional learning methods and for therapeutic purposes, with the purpose of developing social cognition skills in children with ASD and exercising with this type of activities.
-
-### ¿Qué tal estás? App screenshots
-
-<p align="center">
-    <img width="550px" src="../images/que2.png">
-</p>
-
-<p align="center">
-    <img width="300px" src="../images/que1.jpg">
-</p>
-
-[More about ¿Qué tal estás? App](https://aulautista.wixsite.com/teapps/qu-tal-ests)
+[More about Mis Profesores](https://www.misprofesores.com/)
