@@ -1,0 +1,9 @@
+## 01.05.20: Reflection about the article "Casual Microtasking: Embedding Microtasks in Facebook".
+
+> Referenced paper: Nathan Hahn, Shamsi T. Iqbal, and Jaime Teevan. 2019. Casual Microtasking: Embedding Microtasks in Facebook. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI ’19). Association for Computing Machinery, New York, NY, USA, Paper 19, 1–9. DOI:https://doi.org/10.1145/3290605.3300249
+
+During a long day of work, people tend to take breaks to de-stress and forget a minute about hard and tedious work. The use of social networks as Facebook, Instagram or Twitter is usually the most recurring activity during these breaks. The case study covered in the referenced article, tests the use of embedded micro-tasks in Facebook feed. These micro-tasks are related with activities that people do in their regular jobs with the aim of facilitate its realization.
+
+I think that it would be a very helpful method if it's applied in the correct way, on the other hand, i think that it could be difficult and tedious to adapt for big groups of people. According to test results obtained from authors investigation, it seems that the effectiveness of the method depends on many factors like type of micro-tasks, type of job, type of worker's habits, moment of the day (morning, afternoon, night), priority of macro-tasks, etc. Thus, it would required multiple tests in specific circumstances to find the correct way to apply the method. Furthermore, I should point out that the number of participants in the article test is limited to only 9 people, which may affect the veracity of the conclusions.
+
+I usually turn to social networks when I feel stressed or I have  been working for a long period of time, the problem is that I get so immersed that I lose my sense of time. So the appearance of a microtask in my Facebook or Instagram feed would be useful to remind me that I have work to do. 
