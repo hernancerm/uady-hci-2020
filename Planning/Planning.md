@@ -30,7 +30,7 @@ After considering the redefinition of our project, we decided to start again to 
 | Problem definition and justification/Research                                                                                                | Everyone                     | 8 Apr    | Done   |
 | Initial requirements/Market Analysis                                                                                                         | Magdiel Pech                 | 9 Apr    | Done   |
 | [User research/Elaborate instruments](https://forms.gle/edv3D234cMjAUCS98)                                                                   | Elena Medina, Hernán Cervera | 10 Apr   | Done   |
-| Initial requirements/Preliminary definition                                                                                                  | Alvar Peniche, Magdiel Pech  | 13 Apr   | WIP    |
+| Initial requirements/Preliminary definition                                                                                                  | Alvar Peniche, Magdiel Pech  | 13 Apr   | Done    |
 | Problem definition and justification/Documentation                                                                                           | Magdiel Pech                 | 13 Apr   | Done   |
 
 ## 13.04.20 - 19.04.20
@@ -41,9 +41,9 @@ We decided to redefine our project and we started with first delivery activities
 | -------------------------------------------------------------------------- | ---------------------------- | -------- | ------ |
 | Problem definition and justification/Documentation                         | Magdiel Pech                 | 16 Apr   | Done   |
 | [User research/Elaborate instruments](https://forms.gle/edv3D234cMjAUCS98) | Elena Medina, Hernán Cervera | 16 Apr   | Done   |
-| Initial requirements/Preliminary definition                                | Alvar Peniche, Magdiel Pech  | 16Apr    | WIP    |
+| Initial requirements/Preliminary definition                                | Alvar Peniche, Magdiel Pech  | 16Apr    | Done    |
 | Contribution metric/Documentation                                          | Elena Medina                 | 17 Apr   | Done   |
-| Initial requirements/Documentation                                         | Alvar Peniche                | 17 Apr   | WIP    |
+| Initial requirements/Documentation                                         | Alvar Peniche                | 17 Apr   | Done    |
 | User research/Collect data                                                 | Elena Medina, Hernán Cervera | 19 Apr   | Done   |
 
 ## 20.04.20 - 26.04.20
@@ -54,11 +54,11 @@ Last week's main progress spread the elaboration and application of a [survey](h
 
 | Task                                        | Responsible                  | Due date | Status |
 | ------------------------------------------- | ---------------------------- | -------- | ------ |
-| User research/Data analysis                 | Elena Medina, Hernán Cervera | 21 Apr   | WIP    |
-| User research/Documentation                 | Alvar Peniche                | 22 Apr   | To-Do  |
-| Initial requirements/Preliminary definition | Alvar Peniche, Magdiel Pech  | 23 Apr   | To-Do  |
-| Initial requirements/Documentation          | Alvar Peniche                | 24 Apr   | To-Do  |
-| Planning/Documentation                      | Hernán Cervera               | 24 Apr   | To-Do  |
+| User research/Data analysis                 | Elena Medina, Hernán Cervera | 21 Apr   | Done    |
+| User research/Documentation                 | Alvar Peniche                | 22 Apr   | Done  |
+| Initial requirements/Preliminary definition | Alvar Peniche, Magdiel Pech  | 23 Apr   | Done  |
+| Initial requirements/Documentation          | Alvar Peniche                | 24 Apr   | Done  |
+| Planning/Documentation                      | Hernán Cervera               | 24 Apr   | Done  |
 
 ## 27.04.20 - 03.05.20
 
@@ -71,8 +71,8 @@ The planning this week is begin with the second delivery of the project. We have
 | Initial requirements/Preliminary definition | Alvar Peniche, Magdiel Pech  | 23 Apr   | Done   |
 | Initial requirements/Documentation          | Alvar Peniche                | 24 Apr   | Done   |
 | Planning/Documentation                      | Hernán Cervera               | 27 Apr   | Done   |
-| Style guidelines                            | Alvar Peniche, Magdiel Pech  | 29 Apr   | To-Do  |
-| New requirements                            | Hernán Cervera, Elena Medina | 30 Apr   | WIP    |
+| Style guidelines                            | Alvar Peniche, Magdiel Pech  | 29 Apr   | WIP  |
+| New requirements first revision             | Hernán Cervera, Elena Medina | 30 Apr   | Done    |
 | Mockups                                     | Alvar Peniche, Magdiel Pech  | 4 May    | To-Do  |
 
 ## 04.05.20 - 10.05.20
@@ -81,6 +81,18 @@ The planning this week is related to the criteria of the second delivery. This w
 
 | Task                               | Responsible                  | Due date | Status |
 | ---------------------------------- | ---------------------------- | -------- | ------ |
-| New requirements second revision   | Hernán Cervera, Elena Medina | 06 Apr   | To-Do  |
-| Style guidelines and draft mockups | Alvar Peniche, Magdiel Pech  | 06 Apr   | To-Do  |
+| New requirements second revision   | Hernán Cervera, Elena Medina | 06 Apr   | Done  |
+| Style guidelines and draft mockups | Alvar Peniche, Magdiel Pech  | 06 Apr   | WIP  |
 | Mockups first revision             | Everyone                     | 11 May   | To-Do  |
+
+## 11.05.20 - 17.05.20
+
+The planning this week is related to the criteria of the second delivery. This week we will focus on reviewing the usability requirements and defining usability metrics, also we will start creating the wireframes. For a more detailed scheduling of these tasks (and the previous tasks of the first delivery), the [general planning in Wrike](https://www.wrike.com/frontend/ganttchart/index.html?snapshotId=iDrYTuY1x10k5NiRu0k8MO2TqsSR0Icc%7CIEZTKMZVGEZDQLSTGE2A) is made available.
+
+| Task                               | Responsible                  | Due date | Status |
+| ---------------------------------- | ---------------------------- | -------- | ------ |
+| New requirements third revision    | Hernán Cervera, Elena Medina | 13 Apr   | To-Do    |
+| Style guidelines                   | Alvar Peniche, Magdiel Pech  | 13 Apr   | WIP    |
+| Wireframes                         | Alvar Peniche, Magdiel Pech  | 16 May   | To-Do  |
+| Define usability metrics           | Hernán Cervera, Elena Medina | 16 May   | To-Do  |
+
