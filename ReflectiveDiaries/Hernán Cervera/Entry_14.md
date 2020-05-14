@@ -1,0 +1,13 @@
+## 14.05.20 HCI for emergencies
+
+> Summary of Markus Klann, Alessio Malizia, Luca Chittaro, Ignacio Aedo Cuevas, and Stefano Levialdi. 2008. Hci for emergencies. In CHI ’08 Extended Abstracts on Human Factors in Computing Systems (CHI EA ’08). Association for Computing Machinery, New York, NY, USA, 3945–3948. DOI: <https://doi.org/10.1145/1358628.1358963>
+
+The referenced paper bears the same name as the title of this entry, is part of [CHI 2008](http://www.chi2008.org/)'s proceedings and is openly available at the [ACM Digital Library](https://dl.acm.org/doi/10.1145/1358628.1358963). Although the main purpose of the paper is to provide background information for a workshop, as well as to invite people to it, I found the overview  of the topic _HCI for emergencies_ quite interesting and definitely challenging to tackle.
+
+The majority of technology is meant to be primarily used outside of evident danger; in situations where nothing is hurting, pursuing or physically handicapping us. However, during a life-threatening event such as a major health concern or natural disaster, considering emergency factors is critical. At first glance, it may seem that considering these factors into the design of a product might not be all too challenging, but after some more thought they really can be complex to integrate into solid design recommendations.
+
+Take usability tests as a prime example of how much is the traditional approach changed by the _emergency_ context. The purpose of the tests is to assess the degree of _usability_ of a product according to defined metrics. Evidently, the tests are done with target users of the system in a scenario as realistic as possible. For a simple mobile app, reproducing the use of context might be so trivial that is not even taken into account. On the other hand, the emergency context in which emergency tools are utilized is critical to how such tools are used; nonetheless, reproducing this context for experimental purposes can be very difficult or even impossible. Thus, usability testing suddenly becomes much more complex.
+
+Another challenge is efficiency. Some emergency systems are not often used, but when actually get used _efficiency_ (being able to quickly perform the desired task) is critical to the success of the system and the safety of the user. How can users efficiently use emergency systems, even after not using them for a long while?
+
+Another important consideration is hardware. Emergency systems are used in situations where users might be impaired in some way, for example, smoke impairs vision. Because of this, when considering the design of emergency technology, hardware is a big part of how usable the system can end up being.
