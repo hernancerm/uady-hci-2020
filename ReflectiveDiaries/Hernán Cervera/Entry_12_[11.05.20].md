@@ -1,4 +1,4 @@
-## Designing around the happy path
+## 11.05.20 Designing around the happy path
 
 In software engineering, the _happy path_ is the default process followed by a user to complete a certain task, without errors or deviations along the way. A somewhat more formal way of conceptualizing the happy path would be the basic flow of a use case; where the user follows every single intended action, in the correct order and with no errors.
 
