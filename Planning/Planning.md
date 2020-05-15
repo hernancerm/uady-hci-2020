@@ -91,8 +91,7 @@ The planning this week is related to the criteria of the second delivery. This w
 
 | Task                               | Responsible                  | Due date | Status |
 | ---------------------------------- | ---------------------------- | -------- | ------ |
-| New requirements third revision    | Hernán Cervera, Elena Medina | 13 Apr   | To-Do    |
-| Style guidelines                   | Alvar Peniche, Magdiel Pech  | 13 Apr   | WIP    |
+| New requirements third revision    | Hernán Cervera, Elena Medina | 13 May   | To-Do  |
+| Style guidelines                   | Alvar Peniche, Magdiel Pech  | 13 May   | WIP    |
 | Wireframes                         | Alvar Peniche, Magdiel Pech  | 16 May   | To-Do  |
 | Define usability metrics           | Hernán Cervera, Elena Medina | 16 May   | To-Do  |
-
