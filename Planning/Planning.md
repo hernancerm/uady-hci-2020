@@ -91,7 +91,21 @@ The planning this week is related to the criteria of the second delivery. This w
 
 | Task                               | Responsible                  | Due date | Status |
 | ---------------------------------- | ---------------------------- | -------- | ------ |
-| New requirements third revision    | Hernán Cervera, Elena Medina | 13 May   | To-Do  |
-| Style guidelines                   | Alvar Peniche, Magdiel Pech  | 13 May   | WIP    |
-| Wireframes                         | Alvar Peniche, Magdiel Pech  | 16 May   | To-Do  |
-| Define usability metrics           | Hernán Cervera, Elena Medina | 16 May   | To-Do  |
+| New requirements third revision    | Hernán Cervera, Elena Medina | 13 May   | Done   |
+| Style guidelines                   | Alvar Peniche, Magdiel Pech  | 13 May   | Done   |
+| Wireframes                         | Alvar Peniche, Magdiel Pech  | 16 May   | Done   |
+| Define usability metrics           | Hernán Cervera, Elena Medina | 16 May   | WIP    |
+
+## 18.05.20 - 24.05.20
+
+This week is dedicated to finishing the deliverables for the second delivery. We are ahead on the prototypes, but are lagging behind on defining the usability requirements, metrics and planning the usability tests. Additionally, we are going to fill auxiliary documentation, namely the Markdown document and the second delivery deliverables sheet. For a Gantt chart of the planning, refer to the [Wrike planning](https://www.wrike.com/frontend/ganttchart/index.html?snapshotId=FoD5hdy5K3Gjhwp4dHZhTAQ9QKDwYgLb%7CIEZTKMZVGEZDQLSTGE2A).
+
+| Task                                | Responsible                   | Due date | Status |
+|-------------------------------------|-------------------------------|----------|--------|
+| Requirements/Usability requirements | Hernán Cervera, Elena Medina  | 19 May   | WIP    |
+| Usability testing/Usability metrics | Hernán Cervera, Elena Medina  | 19 May   | WIP    |
+| Usability testing/Test planning     | Hernán Cervera, Elena Medina  | 24 May   | To-Do  |
+| Prototypes/Interactive mockups      | Alvar Peniche, Magdiel Pech   | 24 May   | WIP    |
+| Individual contribution metric      | _All team members_            | 24 May   | To-Do  |
+| Second delivery deliverables sheet  | Magdiel Pech                  | 22 May   | To-Do  |
+| Markdown document                   | Hernán Cervera, Alvar Peniche | 23 May   | To-Do  |
