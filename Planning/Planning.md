@@ -109,3 +109,15 @@ This week is dedicated to finishing the deliverables for the second delivery. We
 | Individual contribution metric      | _All team members_            | 24 May   | To-Do  |
 | Second delivery deliverables sheet  | Magdiel Pech                  | 22 May   | To-Do  |
 | Markdown document                   | Hernán Cervera, Alvar Peniche | 23 May   | To-Do  |
+
+## 25.05.20 - 01.06.20
+
+The planning this week is to begin with the third delivery of the project. The tasks both individually and collectively there are in the next table with the schedule of delivery of each one.  In parallel form to the tasks has been started with the project's final report. For a Gantt chart of the planning, refer to the [Wrike planning](https://www.wrike.com/frontend/ganttchart/index.html?snapshotId=FoD5hdy5K3Gjhwp4dHZhTAQ9QKDwYgLb%7CIEZTKMZVGEZDQLSTGE2A).
+
+| Task                                | Responsible                   | Due date | Status |
+|-------------------------------------|-------------------------------|----------|--------|
+| Usability testing/Test planning     | Hernán Cervera, Elena Medina  | 27 May   | WIP    |
+| Perform usability study             | _All team members_            |  1 Jun   | To-Do  |
+| Contribution metric                 | _All team members_            | 25 May   | To-Do  |
+| Finish static elements              | Alvar Peniche, Magdiel Pech   | 27 May   | WIP  |
+| Finish navigation flow              | Alvar Peniche, Magdiel Pech   | 30 May   | To-Do  |
