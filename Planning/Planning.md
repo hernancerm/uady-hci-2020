@@ -121,3 +121,15 @@ The planning this week is to begin with the third delivery of the project. The t
 | Contribution metric                 | _All team members_            | 25 May   | To-Do  |
 | Finish static elements              | Alvar Peniche, Magdiel Pech   | 27 May   | WIP  |
 | Finish navigation flow              | Alvar Peniche, Magdiel Pech   | 30 May   | To-Do  |
+
+## 01.06.20 - 08.06.20
+
+The planning this week is to continue with the third delivery of the project. This week the results obtained in the usability tests will be analyzed and documented. Also, we will start with the project's final report. For a Gantt chart of the planning, refer to the [Wrike planning](https://www.wrike.com/frontend/ganttchart/index.html?snapshotId=FoD5hdy5K3Gjhwp4dHZhTAQ9QKDwYgLb%7CIEZTKMZVGEZDQLSTGE2A).
+
+| Task                                      | Responsible                   | Due date | Status |
+|-------------------------------------------|-------------------------------|----------|--------|
+| Analyse results of the usability testing  | Elena Medina, Magdiel Pech    | 3 Jun    | To-Do  |
+| Final report, Introduction and Conclusion | Magdiel Pech                  | 8 Jun    | To-Do  |
+| Final report, Learn about the users       | Magdiel Pech                  | 8 Jun    | To-Do  |
+| Final report, Prototypes and requirements | Hernán Cervera                | 8 Jun    | To-Do  |
+| Final report, Usability study             | Elena Medina                  | 8 Jun    | To-Do  |
