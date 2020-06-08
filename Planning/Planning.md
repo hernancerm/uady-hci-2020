@@ -133,3 +133,16 @@ The planning this week is to continue with the third delivery of the project. Th
 | Final report, Learn about the users       | Magdiel Pech                  | 8 Jun    | To-Do  |
 | Final report, Prototypes and requirements | Hernán Cervera                | 8 Jun    | To-Do  |
 | Final report, Usability study             | Elena Medina                  | 8 Jun    | To-Do  |
+
+## 08.06.20 - 15.06.20
+
+This week is dedicated to finishing the deliverables for the third delivery. We will continue with the project's final report and we will start with the poster, video and Power Point presentation. For a Gantt chart of the planning, refer to the [Wrike planning](https://www.wrike.com/frontend/ganttchart/index.html?snapshotId=HAYnF229jsGJ5JNYJ7IknX47af7GHm6o%7CIEZTKMZVGEZDQLSTGE2A).
+
+| Task                                      | Responsible                               | Due date | Status |
+|-------------------------------------------|-------------------------------------------|----------|--------|
+| Final report, Introduction and Conclusion | Magdiel Pech                              | 9 Jun    | WIP    |
+| Final report, Learn about the users       | Magdiel Pech                              | 9 Jun    | WIP    |
+| Final report, Prototypes and requirements | Hernán Cervera                            | 9 Jun    | WIP    |
+| Final report, Usability study             | Elena Medina                              | 9 Jun    | WIP    |
+| Poster                                    | Elena Medina, Magdiel Pech, Alvar Peniche | 13 Jun   | To-Do  |
+| Video and PPT                             | _All team members_                        | 13 Jun   | To-Do  |
