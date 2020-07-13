@@ -32,10 +32,10 @@ We had two sources for planning:
 
 The products are organized according to the phases. On the link for each phase you can find all its corresponding products, here I only highlight the most noteworthy.
 
-* **[Users](https://github.com/HerCerM/HCI-2020/blob/master/Deliveries/Delivery_1.md)**
+* **[Users](Deliveries/Delivery_1.md)**
     * [Research techniques](Deliveries/Delivery_1.md#research-techniques)
     * [Ernesto Pech - Persona](Deliveries/images/persona.png)
-    * [Contribution metric definition](Deliveries/Delivery_1.md#metric)
+    * [Contribution metric definition](Deliveries/Delivery_1.md#metrics)
 * **[Prototypes](https://drive.google.com/drive/folders/1zvIVFaIkMkHtamiIV8SekucqtRQRoLjd?usp=sharing)**
     * [Software requirements specification](https://docs.google.com/document/d/1E0CmZcK3-FbKeg9mFJSJ1uP-hh-iV4k04SgKHHAZ9o0/edit?usp=sharing)
     * [Usability test plan](https://docs.google.com/document/d/12J8x8rA0_xNrIhV_nXelnLqI7TG6RN4qvTLS092Hf8I/edit?usp=sharing)
